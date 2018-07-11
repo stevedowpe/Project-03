@@ -1,85 +1,103 @@
-// function parseCommas(number){
-//   numberMod = number.replace(",","")
-//   numberMod = number.replace("$","")
-//   return parseInt(numberMod)
-// }
-  // values_list.push(parseCommas(response[i].FEMA_Funded))
-  // console.log('values_list_int: ', values_list_DSA);
-
-Plotly.d3.csv("SDCCD-Prop-S-N-Closeout-Checklist.csv", function(error, response) {
-
+Plotly.d3.csv("SDCCD-Program-Close-Data.csv", function(error, response) {
   console.log('RESPONSE:', response);
 
-  var labels_list_DSA = [];
-  var values_list_DSA = [];
-  var labels_list_LEED = [];
-  var values_list_LEED = [];
-  var color_list_DSA = [];
-  var color_list_LEED = [];
+  // set blank variable arrays
+  var labels_DSA = [];
+  var values_DSA = [];
+  var color_DSA = [];
 
+  var labels_LEED = [];
+  var values_LEED = [];
+  var color_LEED = [];
+
+  var labels_GIS = [];
+  var values_GIS = [];
+  var color_GIS = [];
+
+  // loop through responses and push values to arrays ////////////////////////
   for (var i = 0; i < response.length; i++) {
-    labels_list_DSA.push(response[i].DSA_Cert)
-    values_list_DSA.push(response[i].DSA_Cert_Count)
-    // color_list_DSA.push(response[i].DSA_Color)
-    labels_list_LEED.push(response[i].LEED_Cert)
-    values_list_LEED.push(response[i].LEED_Cert_Count)    
-    color_list_DSA.push(response[i].DSA_Cert=="Yes", "rgb(84, 232, 25)")
-    color_list_DSA.push(response[i].DSA_Cert=="No", "rgb(229, 133, 133)")
-    color_list_DSA.push(response[i].DSA_Cert=="N/A", "rgb(180, 183, 179)")    
-    color_list_DSA.push(response[i].DSA_Cert=="TBD", "rgb(248, 252, 0)")
-    color_list_DSA.push(response[i].DSA_Cert=="OK (No)", "rgb(0, 214, 252)")     
+    labels_DSA.push(response[i].DSA)
+    values_DSA.push(response[i].DSA_Count)
+    labels_LEED.push(response[i].LEED)
+    values_LEED.push(response[i].LEED_Count)
+    labels_GIS.push(response[i].GIS)
+    values_GIS.push(response[i].GIS_Count)     
+
     
-    color_list_LEED.push(response[i].LEED_Cert=="Yes", "rgb(84, 232, 25)")
-    color_list_LEED.push(response[i].LEED_Cert=="No", "rgb(229, 133, 133)")
-    color_list_LEED.push(response[i].LEED_Cert=="N/A", "rgb(180, 183, 179)")    
-    color_list_LEED.push(response[i].LEED_Cert=="TBD", "rgb(248, 252, 0)")
-    color_list_LEED.push(response[i].LEED_Cert=="OK (No)", "rgb(0, 214, 252)")         
 
+  // attempt to set colors in pie chart based on category filter
+    // color_DSA.push(response[i].DSA="Yes", "LightGreen")
+    // color_DSA.push(response[i].DSA="No", "Tomato")
+    // color_DSA.push(response[i].DSA="OK", "LightSkyBlue")  
+    // color_DSA.push(response[i].DSA="N A", "LightGrey")    
+    // color_DSA.push(response[i].DSA="TBD", "Yellow")
 
-
+    // color_LEED.push(response[i].DSA=="Yes", "LightGreen")
+    // color_LEED.push(response[i].DSA=="No", "Tomato")
+    // color_LEED.push(response[i].DSA=="TBD", "Yellow")
+    // color_LEED.push(response[i].DSA=="OK", "LightSkyBlue")  
+    // color_LEED.push(response[i].DSA=="N A", "LightGrey")        
   };
 
-  console.log('DSA labels_list: ', labels_list_DSA);
-  console.log('DSA values_list: ', values_list_DSA);
-  console.log('DSA colors_list: ', color_list_DSA);
-  console.log('LEED labels_list: ', labels_list_LEED);
-  console.log('LEED values_list: ', values_list_LEED);
+  console.log('DSA labels: ', labels_DSA);
+  console.log('DSA values: ', values_DSA);
+  // console.log('DSA colors: ', color_DSA);
+  console.log('LEED label: ', labels_LEED);
+  console.log('LEED values: ', values_LEED);
+  // console.log('LEED colors: ', color_LEED);
+  console.log('GIS label: ', labels_GIS);
+  console.log('GIS values: ', values_GIS);
 
+
+
+  // Set DSA Pie chart //////////////////////////////////////////////////////
   var trace_DSA = {
-    labels: labels_list_DSA,
-    values: values_list_DSA,
+    labels: labels_DSA,
+    values: values_DSA,
     type: 'pie',
-    marker: {colors: color_list_DSA}
-
+    marker: {colors: color_DSA}
   };
-
-  var trace_LEED = {
-    labels: labels_list_LEED,
-    values: values_list_LEED,
-    type: 'pie',
-    marker: {colors:color_list_LEED}
-    // color: "N/A" = "blue"
-  };
-
   var data_DSA = [trace_DSA];
-  var data_LEED = [trace_LEED];
-
   var layout_DSA = {
     title: "DSA Cert Status",
-    height: 350,
-    width: 350,
-    // colors = ['#FEBFB3', '#E1396C', '#96D38C', '#D0F9B1', "blue"]
+    height: 375,
+    width: 375,
   };
+  Plotly.newPlot("plot_DSA", data_DSA, layout_DSA);
 
+  // Set LEED Pie chart /////////////////////////////////////////////////////
+  var trace_LEED = {
+    labels: labels_LEED,
+    values: values_LEED,
+    type: 'pie',
+    marker: {colors:color_LEED}
+  };
+  var data_LEED = [trace_LEED];
   var layout_LEED = {
     title: "LEED Cert Status",
-    height: 350,
-    width: 350
+    height: 375,
+    width: 375,
   };
-
-  Plotly.newPlot("plot_DSA", data_DSA, layout_DSA);
   Plotly.newPlot("plot_LEED", data_LEED, layout_LEED);  
 
+
+  // Set GIS Pie chart /////////////////////////////////////////////////////
+  var trace_GIS = {
+    labels: labels_GIS,
+    values: values_GIS,
+    type: 'pie',
+    marker: {colors:color_GIS}
+  };
+  var data_GIS = [trace_GIS];
+  var layout_GIS = {
+    title: "GIS Cert Status",
+    height: 375,
+    width: 375,
+  };
+  Plotly.newPlot("plot_GIS", data_GIS, layout_GIS);  
+
+
+  // Attempt to bind a pop-up to the pie chart
   // myPlot.on('plotly_click', function(popuptable){
   //   var pts = '';
   //   for(var i=0; i < popuptable.points.length; i++){
@@ -87,15 +105,8 @@ Plotly.d3.csv("SDCCD-Prop-S-N-Closeout-Checklist.csv", function(error, response)
   //           popuptable.points[i].y.toPrecision(4) + '\n\n';
   //   }
 
-
-
 });
 
-
-
 function popuptable(){ 
-
-}
-
-
+};
 

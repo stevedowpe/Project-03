@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>SDCCD Close-out Update2</title>
+    <title>SDCCD Equipment Capture Status</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
         crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -19,19 +19,13 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
-<h2> SDCCD Program Closeout Status </h2>
-<h4> Data currently shown is mock-up information only (S. Dow - 7/10/2018)</h4>
-<a href = "/equipment-html.html">Click here for warranty info </a>
-<br>
-<a href = #>Coming Soon: Click here for O&M manual info</a>
-<br>
-<a href = #>Coming Soon: Click here for submittal info</a>
+<h2> SDCCD Program Closeout Status -- Equipment Info Capture</h2>
 
 <body>
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <div id="plot_DSA"></div>
+                <div id="plot_warranty"></div>
                 <div id="myModal" class="modal fade">
                     <div class="modal-dialogue">
                         <div class="modal-content">
@@ -49,48 +43,29 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div id="plot_LEED"></div>
-                <div id="myModal" class="modal fade">
-                    <div class="modal-dialogue">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                <h4 class="modal-title">Modal Header</h4>
-                            </div>
-                            <div class="modal-body">
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div id="plot_GIS"></div>
-                <div id="myModal" class="modal fade">
-                    <div class="modal-dialogue">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                <h4 class="modal-title">Modal Header</h4>
-                            </div>
-                            <div class="modal-body">
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <div id="plot_LEED"></div>
+                    <div id="myModal" class="modal fade">
+                        <div class="modal-dialogue">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Modal Header</h4>
+                                </div>
+                                <div class="modal-body">
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
     </div>
-
     <button type="button" class="d-none btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">More Detail</button>
 
 
-    <script src="plots.js"></script>
+    <script src="equipment-js.js"></script>
 </body>
 
 </html>

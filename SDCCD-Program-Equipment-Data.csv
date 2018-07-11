@@ -1,0 +1,937 @@
+Project #,Unnamed: 1,CSI Div,CSI Description,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
+11110,,5,Metals,,Misc Metal,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,6,"Wood, Plastics, etc.",,Casework / Shelving / Counters,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Composite Metal Panel,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Rain Screen System,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Roof Accessories (i.e roof ladder; roof hatch),,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Roofing (PVC) and other,,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Waterproofing (Other),,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Roof Walking Pad,,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,7,Thermal/Moisture-Protect,,Solar Glass (see Solar Panels),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,8,Openings,,Access Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Curtain Wall Exterior Window System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Hardware - panic devices,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Overhead coiling doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,SolarTubes (Operable and not operable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Windows / Glazing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,8,Openings,,Door Hardware - related to FLS; panic hardware/ elec door holdopens / (see also ADA access buttons),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,9,Finishes,,Paint (use for take-off SF estimates of paint?? - planning),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,No,,No,No,,,11110
+11110,,9,Finishes,,Anti-Graffiti Coating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,9,Finishes,,Acoustic Panel Ceiling,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,9,Finishes,,Flooring - carpet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,no,,,11110
+11110,,9,Finishes,,Flooring - other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,9,Finishes,,Flooring - vct,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,9,Finishes,,Wall covering (fabric vs frp etc) - track manufacturer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Paper Towel Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Soap Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Toilet Paper Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Toilet Seat Cover Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Elec Hand Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Sanitary Napkin/Tampon Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Toilet & Urinal Compartments / Bathroom Stalls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Baby Changing Apparatus in Bathroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,ADA Bathroom Grab Bars,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Bathroom trash can (recessed),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,Restroom,Mirror,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,,Tack Board - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,,White Boards - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,10,Specialties,,Fire Extinguishers /FE Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11110
+11110,,10,Specialties,,Modular Office Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,10,Specialties,,Fire Curtain / Fire Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
+11110,,10,Specialties,,Defibrillator Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,,Display Case (i.e. Recessed Display Case / Lockable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,,Operable Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11110
+11110,,10,Specialties,,Signage - Egress,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,,Tack Board - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,,White Boards - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,10,Specialties,,Parking Signage (incl ADA),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,10,Specialties,,Emergency Key Cabinets (i.e. Knox-Box),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,10,Specialties,,Corner Guard / Wall Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,,Locker room benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,,Signage - Directional,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,10,Specialties,,Signage - Rooms,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,11,Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,11,Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,11,Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
+11110,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
+11110,,11,Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,11,Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,11,Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,11,Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
+11110,,11,Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11110
+11110,,11,Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Grease Interceprtor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,11,Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,11,Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,12,Furnishings,Office,Systems Furniture / Cubicles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,Site,Bench,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,Site,Bike Rack,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,Site,Bus Shelter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,Site,Picnic Table,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,Site,Site Furnishings: Trash Can ' Litter Receptacle,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,,Furniture - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,12,Furnishings,,Modular Canopy Shades,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,,Portable table with stacking chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,12,Furnishings,,Auditorium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,,Blinds /Shades / Curtains (Window Covering),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,12,Furnishings,,Student Chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,12,Furnishings,,Student Desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,12,Furnishings,,Walk off Mat,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,12,Furnishings,,Stadium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,14,Conveying-Equip,,Elevator,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,14,Conveying-Equip,,Elevator Room Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,14,Conveying-Equip,,Wheelchair Lift,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,21,Fire-Suppression,,Fire Hydrant,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,21,Fire-Suppression,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,21,Fire-Suppression,,Fire Sprinkler Heads,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,21,Fire-Suppression,,Fire Protection Standpipe Control Valve; Zone Control Riser Valve Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,22,Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Toilet / Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Drinking Fountain - Electric,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Gas Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Hose Bibb,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Roof drain / roof receptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Sink - Classroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Sink - Kitchenette,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Urinal,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Valves (inside/outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,Plumbing,,Water Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,22,Plumbing,,Floor Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,Plumbing,,"Piping, etc",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Air Cooled Chiller - CH,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Air Separator Schedule - AS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Chilled Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Condensing Unit,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Controls Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Exhast Fan - EF,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Expansion Tank - ET,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Hot Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Split System - CU (Outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Split System - FC (Inside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Thermostats,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,23,HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,23,HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,23,HVAC,,Diffusers - Exhaust Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,HVAC,,Diffusers - Return Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,HVAC,,Diffusers - Supply Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,HVAC,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,HVAC,,Roof Curbs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,HVAC,,Exterior Ductwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,26,Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,26,Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,26,Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,26,Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11110
+11110,,26,Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,26,Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,26,Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,26,Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,27,Communications (…AV),,Assisted Listening System Receivers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,27,Communications (…AV),,Projector (LCD - Ceiling Mounted),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,27,Communications (…AV),,Teaching Podium Control Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,27,Communications (…AV),,Television / Monitor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,27,Communications (…AV),,Clocks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,27,Communications (…AV),,Public Announcement System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,27,Communications (…AV),,BlueRay/DVD/Video Streamer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,?,,,11110
+11110,,27,Communications (…AV),,LCD Screens / Digital Signage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,27,Communications (…AV),,Data Outlet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,28,Elec-Safety/Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,28,Elec-Safety/Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,31,Earthwork,,Retaining Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,31,Earthwork,,Caissons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Site benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11110
+11110,,32,Ext-Improvements,,Exterior kiosk,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,32,Ext-Improvements,,ADA Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,ADA Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Traffic Control - Signs/Speed Bumps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Trees,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Motorized Gate / Controllers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Parking sensors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Patio furniture,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,32,Ext-Improvements,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Flow Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Controller,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Heads/Bubblers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves - in General,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Exterior Temperature Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,32,Ext-Improvements,,Curb and Gutter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Driveway/Hardscape/Pavers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Downspouts,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Fence,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves (Air Relief Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves (Ball Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves (Master Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves (Quick Coupler Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Irrigation Valves (Remote Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Asphalt,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Bollards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Gate - Non-Motorized,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Iron Fencing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Parking Stops,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,32,Ext-Improvements,,Sidewalk / Exterior,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,33,Utilities,,Exterior Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Sewer Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Sewer Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Sewer Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Storm Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Storm Drain Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,SWPPP BMP's,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Water Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Water Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Water Meter Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Gas Meters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,33,Utilities,,Items with Pilot Lights (need to get re-lit after gas shutdown),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,33,Utilities,,Water Valve - types,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,44,Pollution/Waste-Equip,,HazMat Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,Yes,,,11110
+11110,,45,Industry,Science,Equipment - Science - Chemistry,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,Science,Equipment - Science - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,Science,Equipment - Science - Astronomy,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,Science,Equipment - Science - Biology,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,Science,Equipment - Science - Cadaver / Equip,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11110
+11110,,45,Industry,,Fume Hoods,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Sewing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Auto,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Educational Electrical,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Educational HVAC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Educational IT/GIS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Fine Art (i.e. Kilns),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Fitness / Exercise,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Manufacturing Machinery,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Medical / Dental,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,45,Industry,,Equipment - Agriculture (Greenhouse),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Animal Health,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Aviation,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Cosmotology / Fashion,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Culinary,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Fire EMT,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Photography,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Radio Station,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Educational - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Theatre / Costuming,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - TV Studio,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - EVOC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,45,Industry,,Equipment - Sports (i.e. Pole Vault Mats),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,45,Industry,,Equipment - Music,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11110
+11110,,45,Industry,,Chemical Shelf / Storage Cabinet for Flammable Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,A-50,Furniture,,filing cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-50,Furniture,,tables,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-50,Furniture,,desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-50,Furniture,,chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-51,Info-Tech,,desk-lights,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,A-51,Info-Tech,,keyboards / mice,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
+11110,,A-51,Info-Tech,,computers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-51,Info-Tech,,servers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-51,Info-Tech,,printers / copiers / scanners,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-51,Info-Tech,,server UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11110
+11110,,A-51,Info-Tech,,software,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,?,,,11110
+11110,,A-52,Police Equip,,Weapons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11110
+11110,,A-53,M&O Equip,,Tools (over $200),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11110
+11110,,A-53,M&O Equip,,compressors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11110
+11110,,A-53,M&O Equip,,"Forklifts, etc (DSC); cranes",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,A-54,Vehicles,,Cars / Carts (DSC),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11240,,5,Metals,,Misc Metal,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,6,"Wood, Plastics, etc.",,Casework / Shelving / Counters,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Composite Metal Panel,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Rain Screen System,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Roof Accessories (i.e roof ladder; roof hatch),,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Roofing (PVC) and other,,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Waterproofing (Other),,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Roof Walking Pad,,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,7,Thermal/Moisture-Protect,,Solar Glass (see Solar Panels),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,8,Openings,,Access Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Curtain Wall Exterior Window System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Hardware - panic devices,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Overhead coiling doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,SolarTubes (Operable and not operable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Windows / Glazing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,8,Openings,,Door Hardware - related to FLS; panic hardware/ elec door holdopens / (see also ADA access buttons),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,9,Finishes,,Paint (use for take-off SF estimates of paint?? - planning),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,No,,No,No,,,11240
+11240,,9,Finishes,,Anti-Graffiti Coating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,9,Finishes,,Acoustic Panel Ceiling,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,9,Finishes,,Flooring - carpet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,no,,,11240
+11240,,9,Finishes,,Flooring - other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,9,Finishes,,Flooring - vct,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,9,Finishes,,Wall covering (fabric vs frp etc) - track manufacturer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Paper Towel Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Soap Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Toilet Paper Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Toilet Seat Cover Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Elec Hand Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Sanitary Napkin/Tampon Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Toilet & Urinal Compartments / Bathroom Stalls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Baby Changing Apparatus in Bathroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,ADA Bathroom Grab Bars,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Bathroom trash can (recessed),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,Restroom,Mirror,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,,Tack Board - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,,White Boards - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,10,Specialties,,Fire Extinguishers /FE Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11240
+11240,,10,Specialties,,Modular Office Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,10,Specialties,,Fire Curtain / Fire Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
+11240,,10,Specialties,,Defibrillator Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,,Display Case (i.e. Recessed Display Case / Lockable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,,Operable Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11240
+11240,,10,Specialties,,Signage - Egress,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,,Tack Board - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,,White Boards - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,10,Specialties,,Parking Signage (incl ADA),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,10,Specialties,,Emergency Key Cabinets (i.e. Knox-Box),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,10,Specialties,,Corner Guard / Wall Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,,Locker room benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,,Signage - Directional,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,10,Specialties,,Signage - Rooms,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,11,Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,11,Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,11,Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
+11240,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
+11240,,11,Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,11,Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,11,Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,11,Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
+11240,,11,Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11240
+11240,,11,Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Grease Interceprtor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,11,Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,11,Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,12,Furnishings,Office,Systems Furniture / Cubicles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,Site,Bench,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,Site,Bike Rack,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,Site,Bus Shelter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,Site,Picnic Table,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,Site,Site Furnishings: Trash Can ' Litter Receptacle,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,,Furniture - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,12,Furnishings,,Modular Canopy Shades,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,,Portable table with stacking chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,12,Furnishings,,Auditorium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,,Blinds /Shades / Curtains (Window Covering),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,12,Furnishings,,Student Chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,12,Furnishings,,Student Desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,12,Furnishings,,Walk off Mat,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,12,Furnishings,,Stadium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,14,Conveying-Equip,,Elevator,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,14,Conveying-Equip,,Elevator Room Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,14,Conveying-Equip,,Wheelchair Lift,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,21,Fire-Suppression,,Fire Hydrant,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,21,Fire-Suppression,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,21,Fire-Suppression,,Fire Sprinkler Heads,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,21,Fire-Suppression,,Fire Protection Standpipe Control Valve; Zone Control Riser Valve Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,22,Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Toilet / Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Drinking Fountain - Electric,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Gas Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Hose Bibb,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Roof drain / roof receptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Sink - Classroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Sink - Kitchenette,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Urinal,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Valves (inside/outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,Plumbing,,Water Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,22,Plumbing,,Floor Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,Plumbing,,"Piping, etc",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,23,HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Air Cooled Chiller - CH,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Air Separator Schedule - AS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Chilled Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Condensing Unit,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Controls Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Exhast Fan - EF,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Expansion Tank - ET,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Hot Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Split System - CU (Outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Split System - FC (Inside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Thermostats,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,23,HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,23,HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,23,HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,23,HVAC,,Diffusers - Exhaust Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,23,HVAC,,Diffusers - Return Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,23,HVAC,,Diffusers - Supply Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,23,HVAC,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,23,HVAC,,Roof Curbs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,23,HVAC,,Exterior Ductwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,23,HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,26,Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,26,Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,26,Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,26,Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,26,Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,26,Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,26,Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11240
+11240,,26,Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,26,Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,26,Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,26,Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,26,Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
+11240,,26,Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
+11240,,26,Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
+11240,,26,Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
+11240,,27,Communications (…AV),,Assisted Listening System Receivers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,27,Communications (…AV),,Projector (LCD - Ceiling Mounted),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,27,Communications (…AV),,Teaching Podium Control Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,27,Communications (…AV),,Television / Monitor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,27,Communications (…AV),,Clocks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,27,Communications (…AV),,Public Announcement System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,27,Communications (…AV),,BlueRay/DVD/Video Streamer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,?,,,11240
+11240,,27,Communications (…AV),,LCD Screens / Digital Signage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,27,Communications (…AV),,Data Outlet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,28,Elec-Safety/Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,28,Elec-Safety/Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,31,Earthwork,,Retaining Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,31,Earthwork,,Caissons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Site benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11240
+11240,,32,Ext-Improvements,,Exterior kiosk,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,32,Ext-Improvements,,ADA Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,ADA Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Traffic Control - Signs/Speed Bumps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Trees,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Motorized Gate / Controllers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Parking sensors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Patio furniture,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,32,Ext-Improvements,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Flow Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Controller,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Heads/Bubblers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves - in General,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Exterior Temperature Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,32,Ext-Improvements,,Curb and Gutter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Driveway/Hardscape/Pavers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Downspouts,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Fence,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves (Air Relief Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves (Ball Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves (Master Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves (Quick Coupler Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Irrigation Valves (Remote Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Asphalt,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Bollards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Gate - Non-Motorized,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Iron Fencing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Parking Stops,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,32,Ext-Improvements,,Sidewalk / Exterior,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,33,Utilities,,Exterior Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Sewer Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Sewer Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Sewer Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Storm Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Storm Drain Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,SWPPP BMP's,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Water Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Water Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Water Meter Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Gas Meters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,33,Utilities,,Items with Pilot Lights (need to get re-lit after gas shutdown),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,33,Utilities,,Water Valve - types,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,44,Pollution/Waste-Equip,,HazMat Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,Yes,,,11240
+11240,,45,Industry,Science,Equipment - Science - Chemistry,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,Science,Equipment - Science - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,Science,Equipment - Science - Astronomy,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,Science,Equipment - Science - Biology,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,Science,Equipment - Science - Cadaver / Equip,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11240
+11240,,45,Industry,,Fume Hoods,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Sewing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Auto,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Educational Electrical,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Educational HVAC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Educational IT/GIS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Fine Art (i.e. Kilns),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Fitness / Exercise,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Manufacturing Machinery,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Medical / Dental,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,45,Industry,,Equipment - Agriculture (Greenhouse),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Animal Health,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Aviation,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Cosmotology / Fashion,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Culinary,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Fire EMT,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Photography,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Radio Station,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Educational - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Theatre / Costuming,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - TV Studio,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - EVOC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
+11240,,45,Industry,,Equipment - Sports (i.e. Pole Vault Mats),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,45,Industry,,Equipment - Music,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11240
+11240,,45,Industry,,Chemical Shelf / Storage Cabinet for Flammable Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,A-50,Furniture,,filing cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-50,Furniture,,tables,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-50,Furniture,,desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-50,Furniture,,chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-51,Info-Tech,,desk-lights,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,A-51,Info-Tech,,keyboards / mice,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
+11240,,A-51,Info-Tech,,computers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-51,Info-Tech,,servers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-51,Info-Tech,,printers / copiers / scanners,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-51,Info-Tech,,server UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11240
+11240,,A-51,Info-Tech,,software,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,?,,,11240
+11240,,A-52,Police Equip,,Weapons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11240
+11240,,A-53,M&O Equip,,Tools (over $200),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11240
+11240,,A-53,M&O Equip,,compressors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11240
+11240,,A-53,M&O Equip,,"Forklifts, etc (DSC); cranes",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11240,,A-54,Vehicles,,Cars / Carts (DSC),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
+11250,,5,Metals,,Misc Metal,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,6,"Wood, Plastics, etc.",,Casework / Shelving / Counters,,,,Yes,1,Yes,1,Yes,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Composite Metal Panel,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Rain Screen System,,,,No,1,No,1,No,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Roof Accessories (i.e roof ladder; roof hatch),,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Roofing (PVC) and other,,,,N A,1,N A,1,N A,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Waterproofing (Other),,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Roof Walking Pad,,,,OK,1,OK,1,OK,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,7,Thermal/Moisture-Protect,,Solar Glass (see Solar Panels),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,8,Openings,,Access Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Curtain Wall Exterior Window System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Hardware - panic devices,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Overhead coiling doors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,SolarTubes (Operable and not operable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Windows / Glazing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,8,Openings,,Door Hardware - related to FLS; panic hardware/ elec door holdopens / (see also ADA access buttons),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,9,Finishes,,Paint (use for take-off SF estimates of paint?? - planning),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,No,,No,No,,,11250
+11250,,9,Finishes,,Anti-Graffiti Coating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,9,Finishes,,Acoustic Panel Ceiling,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,9,Finishes,,Flooring - carpet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,no,,,11250
+11250,,9,Finishes,,Flooring - other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,9,Finishes,,Flooring - vct,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,9,Finishes,,Wall covering (fabric vs frp etc) - track manufacturer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Paper Towel Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Soap Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Toilet Paper Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Toilet Seat Cover Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Elec Hand Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Sanitary Napkin/Tampon Dispenser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Toilet & Urinal Compartments / Bathroom Stalls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Baby Changing Apparatus in Bathroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,ADA Bathroom Grab Bars,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Bathroom trash can (recessed),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,Restroom,Mirror,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,,Tack Board - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,,White Boards - small,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,10,Specialties,,Fire Extinguishers /FE Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11250
+11250,,10,Specialties,,Modular Office Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,10,Specialties,,Fire Curtain / Fire Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
+11250,,10,Specialties,,Defibrillator Cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,,Display Case (i.e. Recessed Display Case / Lockable),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,,Operable Wall,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11250
+11250,,10,Specialties,,Signage - Egress,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,,Tack Board - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,,White Boards - large,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,10,Specialties,,Parking Signage (incl ADA),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,10,Specialties,,Emergency Key Cabinets (i.e. Knox-Box),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,10,Specialties,,Corner Guard / Wall Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,,Locker room benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,,Signage - Directional,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,10,Specialties,,Signage - Rooms,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,11,Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,11,Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,11,Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
+11250,,11,Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
+11250,,11,Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,11,Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,11,Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,11,Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
+11250,,11,Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11250
+11250,,11,Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Grease Interceprtor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,11,Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,11,Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,12,Furnishings,Office,Systems Furniture / Cubicles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,Site,Bench,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,Site,Bike Rack,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,Site,Bus Shelter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,Site,Picnic Table,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,Site,Site Furnishings: Trash Can ' Litter Receptacle,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,,Furniture - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,12,Furnishings,,Modular Canopy Shades,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,,Portable table with stacking chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,12,Furnishings,,Auditorium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,,Blinds /Shades / Curtains (Window Covering),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,12,Furnishings,,Student Chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,12,Furnishings,,Student Desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,12,Furnishings,,Walk off Mat,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,12,Furnishings,,Stadium Seating,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,14,Conveying-Equip,,Elevator,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,14,Conveying-Equip,,Elevator Room Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,14,Conveying-Equip,,Wheelchair Lift,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,21,Fire-Suppression,,Fire Hydrant,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,21,Fire-Suppression,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,21,Fire-Suppression,,Fire Sprinkler Heads,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,21,Fire-Suppression,,Fire Protection Standpipe Control Valve; Zone Control Riser Valve Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,22,Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Toilet / Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Drinking Fountain - Electric,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Gas Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Hose Bibb,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Roof drain / roof receptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Sink - Classroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Sink - Kitchenette,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Urinal,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Valves (inside/outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,Plumbing,,Water Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,22,Plumbing,,Floor Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,Plumbing,,"Piping, etc",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,23,HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Air Cooled Chiller - CH,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Air Separator Schedule - AS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Chilled Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Condensing Unit,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Controls Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Exhast Fan - EF,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Expansion Tank - ET,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Hot Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Split System - CU (Outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Split System - FC (Inside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Thermostats,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,23,HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,23,HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,23,HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,23,HVAC,,Diffusers - Exhaust Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,23,HVAC,,Diffusers - Return Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,23,HVAC,,Diffusers - Supply Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,23,HVAC,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,23,HVAC,,Roof Curbs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,23,HVAC,,Exterior Ductwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,23,HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,26,Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,26,Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,26,Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,26,Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,26,Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,26,Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,26,Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11250
+11250,,26,Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,26,Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,26,Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,26,Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,26,Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
+11250,,26,Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
+11250,,26,Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
+11250,,26,Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
+11250,,27,Communications (…AV),,Assisted Listening System Receivers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,27,Communications (…AV),,Projector (LCD - Ceiling Mounted),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,27,Communications (…AV),,Teaching Podium Control Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,27,Communications (…AV),,Television / Monitor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,27,Communications (…AV),,Clocks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,27,Communications (…AV),,Public Announcement System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,27,Communications (…AV),,BlueRay/DVD/Video Streamer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,?,,,11250
+11250,,27,Communications (…AV),,LCD Screens / Digital Signage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,27,Communications (…AV),,Data Outlet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,28,Elec-Safety/Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,28,Elec-Safety/Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,31,Earthwork,,Retaining Walls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,31,Earthwork,,Caissons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Site benches,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11250
+11250,,32,Ext-Improvements,,Exterior kiosk,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,32,Ext-Improvements,,ADA Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,ADA Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Traffic Control - Signs/Speed Bumps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Trees,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Motorized Gate / Controllers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Parking sensors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Patio furniture,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,32,Ext-Improvements,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Flow Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Controller,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Heads/Bubblers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves - in General,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Exterior Temperature Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,32,Ext-Improvements,,Curb and Gutter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Curb Ramps,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Driveway/Hardscape/Pavers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Downspouts,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Fence,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves (Air Relief Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves (Ball Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves (Master Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves (Quick Coupler Valve),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Irrigation Valves (Remote Control),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Asphalt,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Bollards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Gate - Non-Motorized,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Iron Fencing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Parking Stops,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,32,Ext-Improvements,,Sidewalk / Exterior,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,33,Utilities,,Exterior Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Sewer Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Sewer Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Sewer Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Storm Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Storm Drain Manhole/Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,SWPPP BMP's,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Water Lateral,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Water Line,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Water Meter Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Gas Meters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,33,Utilities,,Items with Pilot Lights (need to get re-lit after gas shutdown),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,33,Utilities,,Water Valve - types,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,44,Pollution/Waste-Equip,,HazMat Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,Yes,,,11250
+11250,,45,Industry,Science,Equipment - Science - Chemistry,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,Science,Equipment - Science - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,Science,Equipment - Science - Astronomy,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,Science,Equipment - Science - Biology,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,Science,Equipment - Science - Cadaver / Equip,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11250
+11250,,45,Industry,,Fume Hoods,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Sewing,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Auto,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Educational Electrical,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Educational HVAC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Educational IT/GIS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Fine Art (i.e. Kilns),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Fitness / Exercise,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Manufacturing Machinery,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Medical / Dental,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,45,Industry,,Equipment - Agriculture (Greenhouse),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Animal Health,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Aviation,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Cosmotology / Fashion,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Culinary,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Fire EMT,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Photography,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Radio Station,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Educational - Other,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Theatre / Costuming,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - TV Studio,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - EVOC,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
+11250,,45,Industry,,Equipment - Sports (i.e. Pole Vault Mats),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,45,Industry,,Equipment - Music,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,Yes,No,,,11250
+11250,,45,Industry,,Chemical Shelf / Storage Cabinet for Flammable Storage,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,A-50,Furniture,,filing cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-50,Furniture,,tables,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-50,Furniture,,desks,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-50,Furniture,,chairs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-51,Info-Tech,,desk-lights,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,A-51,Info-Tech,,keyboards / mice,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
+11250,,A-51,Info-Tech,,computers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-51,Info-Tech,,servers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-51,Info-Tech,,printers / copiers / scanners,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-51,Info-Tech,,server UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11250
+11250,,A-51,Info-Tech,,software,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,?,,,11250
+11250,,A-52,Police Equip,,Weapons,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,?,,,11250
+11250,,A-53,M&O Equip,,Tools (over $200),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11250
+11250,,A-53,M&O Equip,,compressors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,No,,,11250
+11250,,A-53,M&O Equip,,"Forklifts, etc (DSC); cranes",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
+11250,,A-54,Vehicles,,Cars / Carts (DSC),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
