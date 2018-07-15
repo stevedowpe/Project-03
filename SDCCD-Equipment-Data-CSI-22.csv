@@ -1,0 +1,67 @@
+Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
+11110,,22,22-Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Toilet / Water Closet,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Drinking Fountain - Electric,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Gas Meter,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Hose Bibb,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Roof drain / roof receptor,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Sink - Classroom,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Sink - Kitchenette,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Urinal,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Valves (inside/outside),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Water Closet,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Water Meter,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,22,22-Plumbing,,Floor Drain,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,22-Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,22-Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,22-Plumbing,,"Piping, etc",,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11240,,22,22-Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,22-Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,22-Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
+11240,,22,22-Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Toilet / Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Drinking Fountain - Electric,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Gas Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Hose Bibb,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Roof drain / roof receptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Sink - Classroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Sink - Kitchenette,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Urinal,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Valves (inside/outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
+11240,,22,22-Plumbing,,Water Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
+11240,,22,22-Plumbing,,Floor Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,22-Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,22-Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11240,,22,22-Plumbing,,"Piping, etc",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
+11250,,22,22-Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,22-Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,22-Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
+11250,,22,22-Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Toilet / Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Drinking Fountain - Electric,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Mop Sink / Floor Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Gas Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Hose Bibb,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Roof drain / roof receptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Sink - Classroom,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Sink - Kitchenette,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Urinal,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Valves (inside/outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Water Closet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
+11250,,22,22-Plumbing,,Water Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+11250,,22,22-Plumbing,,Floor Drain,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,22-Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,22-Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+11250,,22,22-Plumbing,,"Piping, etc",,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
