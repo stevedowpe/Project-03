@@ -1,0 +1,11 @@
+#populating_table {
+    width: 450px;
+    height: 300px;
+    overflow-y: scroll;
+
+};
+
+#populating table th {
+    background-color: black;
+    color: white;
+}
