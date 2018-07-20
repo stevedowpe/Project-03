@@ -21,16 +21,17 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
 
     <!-- Our own CSS stylesheet -->
-    <link rel="stylesheet" href="style.css" media="screen">
+    <link rel="stylesheet" href="style_DSA.css" media="screen">
+    <link rel="stylesheet" href="style_LEED.css" media="screen">
+    <link rel="stylesheet" href="style_RecordDrawings.css" media="screen">
     <link rel="stylesheet" href="assets/css/styles.css" media="screen">
 </head>
-
-
 
 <body>
     <div class="row">
         <div class="col-md-12">
             <h1 class="text-center"> SDCCD Program Closeout Status</h1>
+            <h2 class="text-center">Data is currently SAMPLE data only (7/19/2018: S. Dow)</h2>
         </div>
     </div>
     <div class="row">
@@ -60,20 +61,58 @@
         <div class="row">
             <div class="col-md-6">
                 <div id="plot_DSA_bar"></div>
-
             </div>
             <div class="col-md-6">
-                <div id="populating_table">
+                <div id="populating_table_DSA">
                     <br> <br> <h4>Click bars for breakdown of projects</h4>
                 </div>
             </div>
-
         </div>
     </div>
-    <button type="button" class="d-none btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">More Detail</button>
+
+    <div class="container">
+        <div class="row">
+            <h4> </h4>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div id="plot_LEED_bar"></div>
+            </div>
+            <div class="col-md-6">
+                <div id="populating_table_LEED">
+                    <br> <br> <h4>Click bars for breakdown of projects</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <h4> </h4>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div id="plot_RecordDrawings_bar"></div>
+            </div>
+            <div class="col-md-6">
+                <div id="populating_table_RecordDrawings">
+                    <br> <br> <h4>Click bars for breakdown of projects</h4>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
-    <script src="plots_bar.js"></script>
+    <script src="bar_DSA.js"></script>
+    <script src="bar_LEED.js"></script>
+    <script src="bar_RecordDrawings.js"></script>
+
 </body>
 
 </html>

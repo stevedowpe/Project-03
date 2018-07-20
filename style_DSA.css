@@ -1,11 +1,14 @@
-#populating_table {
-    width: 450px;
+#populating_table_DSA {
+    width: 600px;
     height: 300px;
     overflow-y: scroll;
-
 };
+
+/* 
 
 #populating table th {
     background-color: black;
     color: white;
-}
+
+
+} */
