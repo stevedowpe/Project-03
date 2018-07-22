@@ -38,7 +38,7 @@ var tbdCount_26 = []
 
 
 // (1) CREATE BAR CHART FOR ALL WARRANTY INFO 
-Plotly.d3.csv("SDCCD-Program-Equipment-Data.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Program-Equipment-Data.csv", function (error, response) {
   console.log('RESPONSE:', response);
 
   // (1-A) Set initial blank variable arrays for counting
@@ -96,7 +96,7 @@ Plotly.d3.csv("SDCCD-Program-Equipment-Data.csv", function (error, response) {
 /////////////////////////////////////////////////////
 
 // (2) CREATE BAR CHART FOR WARRANTY INFO -- CSI-22-PLUMBING 
-Plotly.d3.csv("SDCCD-Equipment-Data-CSI-22.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Equipment-Data-CSI-22.csv", function (error, response) {
   console.log('RESPONSE:', response);
 
   // (2-A) Set initial blank variable arrays for counting
@@ -153,7 +153,7 @@ Plotly.d3.csv("SDCCD-Equipment-Data-CSI-22.csv", function (error, response) {
 /////////////////////////////////////////////////////
 
 // (3) CREATE BAR CHART FOR WARRANTY INFO -- CSI-23-HVAC 
-Plotly.d3.csv("SDCCD-Equipment-Data-CSI-23.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Equipment-Data-CSI-23.csv", function (error, response) {
   console.log('RESPONSE:', response);
 
   // (3-A) Set initial blank variable arrays for counting
@@ -210,7 +210,7 @@ Plotly.d3.csv("SDCCD-Equipment-Data-CSI-23.csv", function (error, response) {
 /////////////////////////////////////////////////////
 
 // (4) CREATE BAR CHART FOR WARRANTY INFO -- CSI-26-Electrical 
-Plotly.d3.csv("SDCCD-Equipment-Data-CSI-26.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Equipment-Data-CSI-26.csv", function (error, response) {
   console.log('RESPONSE:', response);
 
   // (4-A) Set initial blank variable arrays for counting

@@ -102,8 +102,8 @@ Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Coun
 11110,,21,21-Fire-Suppression,,Backflow Device,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
 11110,,21,21-Fire-Suppression,,Fire Sprinkler Heads,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
 11110,,21,21-Fire-Suppression,,Fire Protection Standpipe Control Valve; Zone Control Riser Valve Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,22,22-Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,22,22-Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,Condensate Pump / Pump Sched Info,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,Domestic Water storage tank on roof; tower,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
 11110,,22,22-Plumbing,,Hot Water Circ Pump / Pump Sched Info,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
 11110,,22,22-Plumbing,,Drinking Fountains (ADA etc),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
 11110,,22,22-Plumbing,,Toilet / Water Closet,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
@@ -113,69 +113,69 @@ Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Coun
 11110,,22,22-Plumbing,,Hose Bibb,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
 11110,,22,22-Plumbing,,Lavatory (Bathroom as a Unit to be tracked),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
 11110,,22,22-Plumbing,,Roof drain / roof receptor,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Sink - Classroom,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Sink - Kitchenette,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Urinal,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Valves (inside/outside),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Water Closet,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,22,22-Plumbing,,Water Meter,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,22,22-Plumbing,,Sink - Classroom,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Sink - Kitchenette,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Urinal,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Valves (inside/outside),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Water Closet,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Boiler & tank; Water Heater (see Water Heater Schedule),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,22,22-Plumbing,,Water Meter,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
 11110,,22,22-Plumbing,,Floor Drain,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,22,22-Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,22,22-Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,22,22-Plumbing,,"Piping, etc",,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,23,23-HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Air Cooled Chiller - CH,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Air Separator Schedule - AS,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Chilled Water Pump,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Condensing Unit,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Controls Panel,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Exhast Fan - EF,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Expansion Tank - ET,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Hot Water Pump,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Sensor,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Split System - CU (Outside),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Split System - FC (Inside),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Thermostats,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,22,22-Plumbing,,CHWP (Chilled Water Pipe),,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,22-Plumbing,,HWP (Hot Water Pipe),,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,22,22-Plumbing,,"Piping, etc",,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,23-HVAC,,Filters,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Air Cooled Chiller - CH,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Air Separator Schedule - AS,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Chilled Water Pump,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Condensing Unit,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Controls Panel,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Exhast Fan - EF,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Expansion Tank - ET,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Hot Water Pump,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Sensor,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Split System - CU (Outside),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Split System - FC (Inside),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Thermostats,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,23,23-HVAC,,Volume Damper,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
 11110,,23,23-HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Exhaust Air,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Return Air,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Supply Air,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Fire Smoke Dampers,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Roof Curbs,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,23-HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,23,23-HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,23,23-HVAC,,Diffusers - Exhaust Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,23-HVAC,,Diffusers - Return Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,23-HVAC,,Diffusers - Supply Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,23-HVAC,,Fire Smoke Dampers,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,23,23-HVAC,,Roof Curbs,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
 11110,,23,23-HVAC,,Exterior Ductwork,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,23,23-HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,23,23-HVAC,,Exterior Grilles,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
 11110,,26,26-Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Electric Meter,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Elevator Smoke Door,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Bloom boxes - power,,,,TBD,1, N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
+11110,,26,26-Electrical,,Washing Machine / Dryer,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
+11110,,26,26-Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,26-Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,26-Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
+11110,,26,26-Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
 11110,,26,26-Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
 11110,,26,26-Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,26,26-Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,26,26-Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,26,26-Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,26-Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Egress / Emergency Lighting,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11110
+11110,,26,26-Electrical,,Elec hand wash / sink,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Lighting Inverter,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Panel Boards,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Transformer,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
+11110,,26,26-Electrical,,Solar Panels,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
+11110,,26,26-Electrical,,Junction Boxes,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,26,26-Electrical,,Substation??,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
+11110,,26,26-Electrical,,Elec outlets / power outlets,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,26-Electrical,,Wall Switch,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,26-Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
+11110,,26,26-Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
 11110,,27,27-Communications,,Assisted Listening System Receivers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
 11110,,27,27-Communications,,Projector (LCD - Ceiling Mounted),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
 11110,,27,27-Communications,,Teaching Podium Control Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110

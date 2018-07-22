@@ -1,6 +1,6 @@
 // (1) READ IN CSV FILE
 
-Plotly.d3.csv("SDCCD-Program-Close-Data.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) {
   console.log('RESPONSE:', response);
   ////////////////////////////////////////
   ////////////////////////////////////////
