@@ -1,76 +1,101 @@
-Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
-11110,,26,26-Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Washing Machine / Dryer,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,26,26-Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
-11110,,26,26-Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Egress / Emergency Lighting,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11110
-11110,,26,26-Electrical,,Elec hand wash / sink,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Lighting Inverter,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Panel Boards,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Transformer,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,26,26-Electrical,,Solar Panels,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,26,26-Electrical,,Junction Boxes,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,26,26-Electrical,,Substation??,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,26,26-Electrical,,Elec outlets / power outlets,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Wall Switch,,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11110,,26,26-Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,Yes,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11110
-11240,,26,26-Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,26,26-Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,26,26-Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,26,26-Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,26,26-Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,26,26-Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
-11240,,26,26-Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11240
-11240,,26,26-Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,26,26-Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,26,26-Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11240,,26,26-Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11240,,26,26-Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
-11240,,26,26-Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
-11240,,26,26-Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
-11240,,26,26-Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11240
-11250,,26,26-Electrical,,UPS - Uninteruptable Power Supply,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,26,26-Electrical,,Washing Machine / Dryer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,26,26-Electrical,,Electric Meter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,26,26-Electrical,,Elevator Smoke Door,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,26,26-Electrical,,Lighting Control Panel; Network Lighting Controls,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,26,26-Electrical,,Bloom boxes - power,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
-11250,,26,26-Electrical,,SDGE Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Street Light / Pathway Light,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Dedicated Power for BTU Meter (Gas Meter),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Egress / Emergency Lighting,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,Yes,,,11250
-11250,,26,26-Electrical,,Elec hand wash / sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Electrical Cabinets and Enclosures,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Lighting Fixtures; Luminaire Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Lighting Inverter,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Panel Boards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Switchboards; Wall-Mounted Panelboards,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Transformer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,TVSS - Transient Voltage Surge Suppressor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,26,26-Electrical,,Solar Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,26,26-Electrical,,Junction Boxes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
-11250,,26,26-Electrical,,Substation??,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
-11250,,26,26-Electrical,,Elec outlets / power outlets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
-11250,,26,26-Electrical,,Wall Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
-11250,,26,26-Electrical,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
-11250,,26,26-Electrical,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,?,No,,No,No,,,11250
+Asset Tag #,Building,CSI,CSI Div,Callout,Contract,Contractor,Currently Indiv item tracked?,Currently Waldrop ID Tag?,FA Tag #,Floor,Fusion #,General vs Fixed-Asset,Item,Item a Consumable ?,Latitude,Longitide,Make,Model,O&M Binder #,OM,OM_Count,Project #,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,Sub-Group,Submittals,Submittals_Count,Unnamed: 1,Unnamed: 16,Unnamed: 20,Unnamed: 27,Unnamed: 32,Unnamed: 34,Unnamed: 37,Unnamed: 9,Warranty,Warranty Duration,Warranty Expires,Warranty Start,Warranty_Count,sheet
+,,26-Electrical,26,,,,Yes,Yes,,,,,UPS - Uninteruptable Power Supply,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,Yes,Yes,,,,,Washing Machine / Dryer,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,Yes,No,,,,,Electric Meter,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,Yes,No,,,,,Elevator Smoke Door,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,Yes,No,,,,,Lighting Control Panel; Network Lighting Controls,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Bloom boxes - power,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,SDGE Box,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Street Light / Pathway Light,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Dedicated Power for BTU Meter (Gas Meter),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,Yes,,,,,Egress / Emergency Lighting,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Elec hand wash / sink,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Electrical Cabinets and Enclosures,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Lighting Fixtures; Luminaire Schedule,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Lighting Inverter,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Panel Boards,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Switchboards; Wall-Mounted Panelboards,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Transformer,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,TVSS - Transient Voltage Surge Suppressor,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,?,No,,,,,Solar Panels,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Junction Boxes,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Substation??,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Elec outlets / power outlets,No,,,,,,TBD,1.0,11110.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Wall Switch,No,,,,,,TBD,1.0,11110.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11110.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11110.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,26-Electrical,26,,,,Yes,Yes,,,,,UPS - Uninteruptable Power Supply,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,Yes,Yes,,,,,Washing Machine / Dryer,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,Yes,No,,,,,Electric Meter,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,Yes,No,,,,,Elevator Smoke Door,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,Yes,No,,,,,Lighting Control Panel; Network Lighting Controls,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Bloom boxes - power,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,SDGE Box,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Street Light / Pathway Light,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Dedicated Power for BTU Meter (Gas Meter),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,Yes,,,,,Egress / Emergency Lighting,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Elec hand wash / sink,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Electrical Cabinets and Enclosures,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Lighting Fixtures; Luminaire Schedule,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Lighting Inverter,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Panel Boards,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Switchboards; Wall-Mounted Panelboards,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Transformer,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,TVSS - Transient Voltage Surge Suppressor,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,?,No,,,,,Solar Panels,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Junction Boxes,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Substation??,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Elec outlets / power outlets,No,,,,,,TBD,1.0,11220.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Wall Switch,No,,,,,,TBD,1.0,11220.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11220.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11220.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,26-Electrical,26,,,,Yes,Yes,,,,,UPS - Uninteruptable Power Supply,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,Yes,Yes,,,,,Washing Machine / Dryer,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,Yes,No,,,,,Electric Meter,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,Yes,No,,,,,Elevator Smoke Door,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,Yes,No,,,,,Lighting Control Panel; Network Lighting Controls,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Bloom boxes - power,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,SDGE Box,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Street Light / Pathway Light,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Dedicated Power for BTU Meter (Gas Meter),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,Yes,,,,,Egress / Emergency Lighting,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Elec hand wash / sink,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Electrical Cabinets and Enclosures,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Lighting Fixtures; Luminaire Schedule,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Lighting Inverter,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Panel Boards,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Switchboards; Wall-Mounted Panelboards,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Transformer,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,TVSS - Transient Voltage Surge Suppressor,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,?,No,,,,,Solar Panels,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Junction Boxes,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Substation??,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Elec outlets / power outlets,No,,,,,,TBD,1.0,11240.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Wall Switch,No,,,,,,TBD,1.0,11240.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11240.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11240.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,26-Electrical,26,,,,Yes,Yes,,,,,UPS - Uninteruptable Power Supply,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,Yes,Yes,,,,,Washing Machine / Dryer,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,Yes,No,,,,,Electric Meter,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,Yes,No,,,,,Elevator Smoke Door,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,Yes,No,,,,,Lighting Control Panel; Network Lighting Controls,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Bloom boxes - power,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,SDGE Box,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Street Light / Pathway Light,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Dedicated Power for BTU Meter (Gas Meter),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,Yes,,,,,Egress / Emergency Lighting,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Elec hand wash / sink,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Electrical Cabinets and Enclosures,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Lighting Fixtures; Luminaire Schedule,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Lighting Inverter,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Panel Boards,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Switchboards; Wall-Mounted Panelboards,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Transformer,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,TVSS - Transient Voltage Surge Suppressor,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,?,No,,,,,Solar Panels,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Junction Boxes,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Substation??,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Elec outlets / power outlets,No,,,,,,TBD,1.0,11250.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Wall Switch,No,,,,,,TBD,1.0,11250.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11250.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,26-Electrical,26,,,,No,No,,,,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,TBD,1.0,11250.0,?,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250

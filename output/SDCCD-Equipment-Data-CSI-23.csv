@@ -1,82 +1,109 @@
-Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
-11110,,23,23-HVAC,,Filters,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Air Cooled Chiller - CH,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Air Separator Schedule - AS,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Chilled Water Pump,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Condensing Unit,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Controls Panel,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Exhast Fan - EF,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Expansion Tank - ET,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Hot Water Pump,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Sensor,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Split System - CU (Outside),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Split System - FC (Inside),,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Thermostats,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Volume Damper,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,23,23-HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,No,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Exhaust Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Return Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Diffusers - Supply Air,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Fire Smoke Dampers,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,23,23-HVAC,,Roof Curbs,,,,TBD,1,N A,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,23,23-HVAC,,Exterior Ductwork,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,23,23-HVAC,,Exterior Grilles,,,,TBD,1,OK,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11240,,23,23-HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Air Cooled Chiller - CH,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Air Separator Schedule - AS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Chilled Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Condensing Unit,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Controls Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Exhast Fan - EF,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Expansion Tank - ET,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Hot Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Split System - CU (Outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Split System - FC (Inside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Thermostats,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,23,23-HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,23,23-HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,23,23-HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,23,23-HVAC,,Diffusers - Exhaust Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,23,23-HVAC,,Diffusers - Return Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,23,23-HVAC,,Diffusers - Supply Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,23,23-HVAC,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,23,23-HVAC,,Roof Curbs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11240,,23,23-HVAC,,Exterior Ductwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11240,,23,23-HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11250,,23,23-HVAC,,Filters,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,AH - Air Handling Unit - see AHU Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Air Cooled Chiller - CH,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Air Separator Schedule - AS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Chilled Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Condensing Unit,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Controls Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,CWST (ST) - Chilled Water Storage Tank,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Exhast Fan - EF,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Expansion Tank - ET,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Hot Water Pump,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Split System - CU (Outside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Split System - FC (Inside),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Thermostats,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,VAV - Variable Air Volume Terminal Schedule,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Volume Damper,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,23,23-HVAC,,Operable Gate in Mechanical Screen,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,23,23-HVAC,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,23,23-HVAC,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,23,23-HVAC,,Diffusers - Exhaust Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,23,23-HVAC,,Diffusers - Return Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,23,23-HVAC,,Diffusers - Supply Air,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,23,23-HVAC,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,23,23-HVAC,,Roof Curbs,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
-11250,,23,23-HVAC,,Exterior Ductwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
-11250,,23,23-HVAC,,Exterior Grilles,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+Asset Tag #,Building,CSI,CSI Div,Callout,Contract,Contractor,Currently Indiv item tracked?,Currently Waldrop ID Tag?,FA Tag #,Floor,Fusion #,General vs Fixed-Asset,Item,Item a Consumable ?,Latitude,Longitide,Make,Model,O&M Binder #,OM,OM_Count,Project #,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,Sub-Group,Submittals,Submittals_Count,Unnamed: 1,Unnamed: 16,Unnamed: 20,Unnamed: 27,Unnamed: 32,Unnamed: 34,Unnamed: 37,Unnamed: 9,Warranty,Warranty Duration,Warranty Expires,Warranty Start,Warranty_Count,sheet
+,,23-HVAC,23,,,,Yes,No,,,,,Filters,Yes,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,AH - Air Handling Unit - see AHU Schedule,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Air Cooled Chiller - CH,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Air Separator Schedule - AS,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Chilled Water Pump,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Condensing Unit,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Controls Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,CWST (ST) - Chilled Water Storage Tank,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Exhast Fan - EF,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Expansion Tank - ET,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Hot Water Pump,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Sensor,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - CU (Outside),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - FC (Inside),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Thermostats,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,VAV - Variable Air Volume Terminal Schedule,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Volume Damper,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Operable Gate in Mechanical Screen,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Exhaust Air,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Return Air,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Supply Air,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,?,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Roof Curbs,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Exterior Ductwork,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,No,No,,,,,Exterior Grilles,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,23-HVAC,23,,,,Yes,No,,,,,Filters,Yes,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,AH - Air Handling Unit - see AHU Schedule,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Air Cooled Chiller - CH,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Air Separator Schedule - AS,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Chilled Water Pump,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Condensing Unit,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Controls Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,CWST (ST) - Chilled Water Storage Tank,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Exhast Fan - EF,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Expansion Tank - ET,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Hot Water Pump,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Sensor,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - CU (Outside),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - FC (Inside),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Thermostats,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,VAV - Variable Air Volume Terminal Schedule,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Volume Damper,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Operable Gate in Mechanical Screen,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Exhaust Air,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Return Air,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Supply Air,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,?,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Roof Curbs,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Exterior Ductwork,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,No,No,,,,,Exterior Grilles,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,23-HVAC,23,,,,Yes,No,,,,,Filters,Yes,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,AH - Air Handling Unit - see AHU Schedule,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Air Cooled Chiller - CH,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Air Separator Schedule - AS,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Chilled Water Pump,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Condensing Unit,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Controls Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,CWST (ST) - Chilled Water Storage Tank,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Exhast Fan - EF,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Expansion Tank - ET,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Hot Water Pump,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Sensor,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - CU (Outside),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - FC (Inside),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Thermostats,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,VAV - Variable Air Volume Terminal Schedule,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Volume Damper,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Operable Gate in Mechanical Screen,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Exhaust Air,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Return Air,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Supply Air,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,?,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Roof Curbs,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Exterior Ductwork,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,No,No,,,,,Exterior Grilles,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,23-HVAC,23,,,,Yes,No,,,,,Filters,Yes,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,AH - Air Handling Unit - see AHU Schedule,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Air Cooled Chiller - CH,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Air Separator Schedule - AS,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Chilled Water Pump,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Condensing Unit,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Controls Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,CWST (ST) - Chilled Water Storage Tank,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Exhast Fan - EF,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Expansion Tank - ET,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Hot Water Pump,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Sensor,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - CU (Outside),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Split System - FC (Inside),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Thermostats,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,VAV - Variable Air Volume Terminal Schedule,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,Yes,No,,,,,Volume Damper,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Operable Gate in Mechanical Screen,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Exhaust Air,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Return Air,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,?,No,,,,,Diffusers - Supply Air,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,?,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Roof Curbs,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Exterior Ductwork,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,23-HVAC,23,,,,No,No,,,,,Exterior Grilles,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250

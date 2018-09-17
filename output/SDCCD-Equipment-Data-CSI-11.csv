@@ -1,88 +1,117 @@
-Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
-11110,,11,11-Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,11,11-Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11110
-11110,,11,11-Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,11,11-Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
-11110,,11,11-Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11110
-11110,,11,11-Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11110
-11110,,11,11-Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11110
-11110,,11,11-Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Grease Interceptor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,11,11-Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11110,,11,11-Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11110
-11240,,11,11-Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,11,11-Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11240
-11240,,11,11-Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,11,11-Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
-11240,,11,11-Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11240
-11240,,11,11-Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11240
-11240,,11,11-Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11240
-11240,,11,11-Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Grease Interceprtor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,11,11-Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11240,,11,11-Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11240
-11250,,11,11-Equipment,Classroom,Fixed Projection Screens (motorized and manual),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,11,11-Equipment,Food-Service,Glove dispesner,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,Yes,,No,No,,No,No,,,11250
-11250,,11,11-Equipment,Food-Service,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Dishwasher,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Food Service Equipment (Other / Specialized),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Freezer / Walk-in Cooler -- Non-Fixed,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Ice Maker,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Microwave,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Mixer/Blender,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Prep Sink,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Oven,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,POS cash register / point of sale,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Water Filration System,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,11,11-Equipment,Food-Service,Food Service Sinks / Dipperwell Assembly,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,Food-Service,Freezer Merchandiser,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
-11250,,11,11-Equipment,Food-Service,Garbage disposer,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,Food-Service,Hot cabinets,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,Yes,No,,,11250
-11250,,11,11-Equipment,Food-Service,General food service millwork,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Parking Control Equipment (i.e. Parking Permit Machine),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,Yes,,,11250
-11250,,11,11-Equipment,,Cabinets (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Counters (with drawers/doors),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Employee lockers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,Yes,,,11250
-11250,,11,11-Equipment,,Faucet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Grease Interceprtor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Hot water heater,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Knock Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,11,11-Equipment,,Window Washing Davit Base,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
-11250,,11,11-Equipment,,Window Washing Equipment,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,No,No,,No,No,,,11250
+Asset Tag #,Building,CSI,CSI Div,Callout,Contract,Contractor,Currently Indiv item tracked?,Currently Waldrop ID Tag?,FA Tag #,Floor,Fusion #,General vs Fixed-Asset,Item,Item a Consumable ?,Latitude,Longitide,Make,Model,O&M Binder #,OM,OM_Count,Project #,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,Sub-Group,Submittals,Submittals_Count,Unnamed: 1,Unnamed: 16,Unnamed: 20,Unnamed: 27,Unnamed: 32,Unnamed: 34,Unnamed: 37,Unnamed: 9,Warranty,Warranty Duration,Warranty Expires,Warranty Start,Warranty_Count,sheet
+,,11-Equipment,11,,,,?,No,,,,,Fixed Projection Screens (motorized and manual),No,,,,,,TBD,1.0,11110.0,Yes,No,,Classroom,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Glove dispesner,Yes,,,,,,TBD,1.0,11110.0,No,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Dishwasher,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Food Service Equipment (Other / Specialized),No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Fixed,No,,,,,,TBD,1.0,11110.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Non-Fixed,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Ice Maker,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Microwave,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Mixer/Blender,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Prep Sink,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Oven,No,,,,,,TBD,1.0,11110.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,POS cash register / point of sale,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Water Filration System,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Food Service Sinks / Dipperwell Assembly,No,,,,,,TBD,1.0,11110.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Freezer Merchandiser,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Garbage disposer,No,,,,,,TBD,1.0,11110.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Hot cabinets,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,General food service millwork,No,,,,,,TBD,1.0,11110.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,Yes,Yes,,,,,Parking Control Equipment (i.e. Parking Permit Machine),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Cabinets (with drawers/doors),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Counters (with drawers/doors),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,Yes,,,,,Employee lockers,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Faucet,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Grease Interceptor,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Hot water heater,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Knock Box,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Davit Base,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Equipment,No,,,,,,TBD,1.0,11110.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,11-Equipment,11,,,,?,No,,,,,Fixed Projection Screens (motorized and manual),No,,,,,,TBD,1.0,11220.0,Yes,No,,Classroom,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Glove dispesner,Yes,,,,,,TBD,1.0,11220.0,No,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Dishwasher,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Food Service Equipment (Other / Specialized),No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Fixed,No,,,,,,TBD,1.0,11220.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Non-Fixed,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Ice Maker,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Microwave,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Mixer/Blender,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Prep Sink,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Oven,No,,,,,,TBD,1.0,11220.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,POS cash register / point of sale,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Water Filration System,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Food Service Sinks / Dipperwell Assembly,No,,,,,,TBD,1.0,11220.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Freezer Merchandiser,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Garbage disposer,No,,,,,,TBD,1.0,11220.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Hot cabinets,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,General food service millwork,No,,,,,,TBD,1.0,11220.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,Yes,Yes,,,,,Parking Control Equipment (i.e. Parking Permit Machine),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Cabinets (with drawers/doors),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Counters (with drawers/doors),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,Yes,,,,,Employee lockers,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Faucet,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Grease Interceptor,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Hot water heater,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Knock Box,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Davit Base,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Equipment,No,,,,,,TBD,1.0,11220.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,11-Equipment,11,,,,?,No,,,,,Fixed Projection Screens (motorized and manual),No,,,,,,TBD,1.0,11240.0,Yes,No,,Classroom,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Glove dispesner,Yes,,,,,,TBD,1.0,11240.0,No,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Dishwasher,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Food Service Equipment (Other / Specialized),No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Fixed,No,,,,,,TBD,1.0,11240.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Non-Fixed,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Ice Maker,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Microwave,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Mixer/Blender,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Prep Sink,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Oven,No,,,,,,TBD,1.0,11240.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,POS cash register / point of sale,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Water Filration System,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Food Service Sinks / Dipperwell Assembly,No,,,,,,TBD,1.0,11240.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Freezer Merchandiser,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Garbage disposer,No,,,,,,TBD,1.0,11240.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Hot cabinets,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,General food service millwork,No,,,,,,TBD,1.0,11240.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,Yes,Yes,,,,,Parking Control Equipment (i.e. Parking Permit Machine),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Cabinets (with drawers/doors),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Counters (with drawers/doors),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,Yes,,,,,Employee lockers,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Faucet,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Grease Interceprtor,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Hot water heater,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Knock Box,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Davit Base,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Equipment,No,,,,,,TBD,1.0,11240.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,11-Equipment,11,,,,?,No,,,,,Fixed Projection Screens (motorized and manual),No,,,,,,TBD,1.0,11250.0,Yes,No,,Classroom,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Glove dispesner,Yes,,,,,,TBD,1.0,11250.0,No,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Dishwasher,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Food Service Equipment (Other / Specialized),No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Fixed,No,,,,,,TBD,1.0,11250.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Freezer / Walk-in Cooler -- Non-Fixed,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Ice Maker,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Microwave,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Mixer/Blender,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Prep Sink,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Oven,No,,,,,,TBD,1.0,11250.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,POS cash register / point of sale,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Water Filration System,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Food Service Sinks / Dipperwell Assembly,No,,,,,,TBD,1.0,11250.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Freezer Merchandiser,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Garbage disposer,No,,,,,,TBD,1.0,11250.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Hot cabinets,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,General food service millwork,No,,,,,,TBD,1.0,11250.0,Yes,No,,Food-Service,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,Yes,Yes,,,,,Parking Control Equipment (i.e. Parking Permit Machine),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Cabinets (with drawers/doors),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Counters (with drawers/doors),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,Yes,,,,,Employee lockers,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Faucet,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Grease Interceprtor,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Hot water heater,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Knock Box,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Davit Base,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,11-Equipment,11,,,,No,No,,,,,Window Washing Equipment,No,,,,,,TBD,1.0,11250.0,No,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250

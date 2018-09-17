@@ -1,94 +1,125 @@
-Project #,Unnamed: 1,CSI Div,CSI,Sub-Group,Item,Make,Model,Unnamed: 8,OM,OM_Count,Warranty,Warranty_Count,Submittals,Submittals_Count,Unnamed: 15,General vs Fixed-Asset,Asset Tag #,FA Tag #,Unnamed: 19,Building,Fusion #,Floor,Room,Latitude,Longitide,Unnamed: 26,O&M Binder #,Warranty Start,Warranty Duration,Warranty Expires,Unnamed: 31,Item a Consumable ?,Unnamed: 33,Recommend Indiv item Tracking?,Currently Indiv item tracked?,Unnamed: 36,Recommend Waldrop ID Tag?,Currently Waldrop ID Tag?,Contractor,Contract,sheet
-11110,,28,28-Elec-Safety-Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11110
-11110,,28,28-Elec-Safety-Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11110,,28,28-Elec-Safety-Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11110
-11240,,28,28-Elec-Safety-Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11240
-11240,,28,28-Elec-Safety-Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11240,,28,28-Elec-Safety-Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11240
-11250,,28,28-Elec-Safety-Security,Fire,Heat Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,Fire,Horn/Strobe,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,Fire,Manual Pull Stations,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,Fire,Mini Horn,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,Security,Motion Detector,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,Security,Panic Switch,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Battery Backup -- see UPS,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,Yes,Yes,,,11250
-11250,,28,28-Elec-Safety-Security,,Card Reader / Security / Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Door Contact,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Alarm LCD Annunciator Panel; Notifier Panels,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Sprinkler System (Existence of in Building),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Security Alarm/Keypad,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,Yes,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Smoke Guard,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Access Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Emergency Telephone Box; Emergency Wall Phone,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Alarm Relays,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Alarm Transponder,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Smoke Dampers,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Sprinkler Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,No,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Carbon Dioxide Sensor,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,FACP - Fire Alarm Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,FATC - Fire Alarm Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Fire Strobes,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,FSCP - Firefighter's Smoke Control Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Knox Box,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Pre-Action Release Panel,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Projector Alarm with Relay,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,SCDC - Smoke Control Damper Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,SCTC - Smoke Control Terminal Cabinet,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Security Cameras (CCTV?),,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
-11250,,28,28-Elec-Safety-Security,,Smoke Detectors,,,,TBD,1,TBD,1,TBD,1,,,,,,,,,,,,,,,,,,No,,Yes,?,,No,No,,,11250
+Asset Tag #,Building,CSI,CSI Div,Callout,Contract,Contractor,Currently Indiv item tracked?,Currently Waldrop ID Tag?,FA Tag #,Floor,Fusion #,General vs Fixed-Asset,Item,Item a Consumable ?,Latitude,Longitide,Make,Model,O&M Binder #,OM,OM_Count,Project #,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,Sub-Group,Submittals,Submittals_Count,Unnamed: 1,Unnamed: 16,Unnamed: 20,Unnamed: 27,Unnamed: 32,Unnamed: 34,Unnamed: 37,Unnamed: 9,Warranty,Warranty Duration,Warranty Expires,Warranty Start,Warranty_Count,sheet
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Heat Detector,No,,,,,,TBD,1.0,11110.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Horn/Strobe,No,,,,,,TBD,1.0,11110.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Manual Pull Stations,No,,,,,,TBD,1.0,11110.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Mini Horn,No,,,,,,TBD,1.0,11110.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Motion Detector,No,,,,,,TBD,1.0,11110.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Panic Switch,No,,,,,,TBD,1.0,11110.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,Yes,,,,,Battery Backup -- see UPS,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Card Reader / Security / Keypad,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Door Contact,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Alarm LCD Annunciator Panel; Notifier Panels,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Sprinkler System (Existence of in Building),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Security Alarm/Keypad,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Smoke Guard,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Access Control Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Emergency Telephone Box; Emergency Wall Phone,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Relays,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Transponder,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Sprinkler Control Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Carbon Dioxide Sensor,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FACP - Fire Alarm Control Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FATC - Fire Alarm Terminal Cabinet,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Fire Strobes,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FSCP - Firefighter's Smoke Control Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Knox Box,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Pre-Action Release Panel,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Projector Alarm with Relay,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCDC - Smoke Control Damper Cabinet,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCTC - Smoke Control Terminal Cabinet,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Security Cameras (CCTV?),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Smoke Detectors,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Heat Detector,No,,,,,,TBD,1.0,11220.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Horn/Strobe,No,,,,,,TBD,1.0,11220.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Manual Pull Stations,No,,,,,,TBD,1.0,11220.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Mini Horn,No,,,,,,TBD,1.0,11220.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Motion Detector,No,,,,,,TBD,1.0,11220.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Panic Switch,No,,,,,,TBD,1.0,11220.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,Yes,,,,,Battery Backup -- see UPS,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Card Reader / Security / Keypad,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Door Contact,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Alarm LCD Annunciator Panel; Notifier Panels,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Sprinkler System (Existence of in Building),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Security Alarm/Keypad,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Smoke Guard,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Access Control Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Emergency Telephone Box; Emergency Wall Phone,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Relays,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Transponder,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Sprinkler Control Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Carbon Dioxide Sensor,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FACP - Fire Alarm Control Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FATC - Fire Alarm Terminal Cabinet,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Fire Strobes,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FSCP - Firefighter's Smoke Control Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Knox Box,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Pre-Action Release Panel,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Projector Alarm with Relay,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCDC - Smoke Control Damper Cabinet,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCTC - Smoke Control Terminal Cabinet,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Security Cameras (CCTV?),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Smoke Detectors,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Heat Detector,No,,,,,,TBD,1.0,11240.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Horn/Strobe,No,,,,,,TBD,1.0,11240.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Manual Pull Stations,No,,,,,,TBD,1.0,11240.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Mini Horn,No,,,,,,TBD,1.0,11240.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Motion Detector,No,,,,,,TBD,1.0,11240.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Panic Switch,No,,,,,,TBD,1.0,11240.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,Yes,,,,,Battery Backup -- see UPS,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Card Reader / Security / Keypad,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Door Contact,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Alarm LCD Annunciator Panel; Notifier Panels,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Sprinkler System (Existence of in Building),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Security Alarm/Keypad,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Smoke Guard,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Access Control Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Emergency Telephone Box; Emergency Wall Phone,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Relays,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Transponder,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Sprinkler Control Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Carbon Dioxide Sensor,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FACP - Fire Alarm Control Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FATC - Fire Alarm Terminal Cabinet,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Fire Strobes,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FSCP - Firefighter's Smoke Control Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Knox Box,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Pre-Action Release Panel,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Projector Alarm with Relay,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCDC - Smoke Control Damper Cabinet,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCTC - Smoke Control Terminal Cabinet,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Security Cameras (CCTV?),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Smoke Detectors,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Heat Detector,No,,,,,,TBD,1.0,11250.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Horn/Strobe,No,,,,,,TBD,1.0,11250.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Manual Pull Stations,No,,,,,,TBD,1.0,11250.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Mini Horn,No,,,,,,TBD,1.0,11250.0,Yes,No,,Fire,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Motion Detector,No,,,,,,TBD,1.0,11250.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Panic Switch,No,,,,,,TBD,1.0,11250.0,Yes,No,,Security,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,Yes,,,,,Battery Backup -- see UPS,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Card Reader / Security / Keypad,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Door Contact,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Alarm LCD Annunciator Panel; Notifier Panels,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Fire Sprinkler System (Existence of in Building),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,Yes,No,,,,,Security Alarm/Keypad,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Smoke Guard,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Access Control Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Emergency Telephone Box; Emergency Wall Phone,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Relays,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Alarm Transponder,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Smoke Dampers,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,No,No,,,,,Fire Sprinkler Control Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Carbon Dioxide Sensor,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FACP - Fire Alarm Control Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FATC - Fire Alarm Terminal Cabinet,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Fire Strobes,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,FSCP - Firefighter's Smoke Control Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Knox Box,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Pre-Action Release Panel,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Projector Alarm with Relay,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCDC - Smoke Control Damper Cabinet,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,SCTC - Smoke Control Terminal Cabinet,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Security Cameras (CCTV?),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+,,28-Elec-Safety-Security,28,,,,?,No,,,,,Smoke Detectors,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
