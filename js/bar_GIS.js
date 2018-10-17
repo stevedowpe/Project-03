@@ -107,7 +107,7 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   var data_GIS = [trace_GIS];
 
   var layout_GIS = {
-    title: "GIS Status",
+    title: "GIS Status (Small-Scale Dwgs)",
     height: 350,
     width: 350,
   };
