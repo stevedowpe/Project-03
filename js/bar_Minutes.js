@@ -6,13 +6,13 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   ////////////////////////////////////////
   ///////////////////////////////////////
 
-  // (2) BIM CHART
+  // (2) Minutes CHART
   // (2-A) SET BLANK VARIABLE ARRAYS
-  var yesCount_BIM = 0
-  var noCount_BIM = 0
-  var okCount_BIM = 0
-  var naCount_BIM = 0
-  var tbdCount_BIM = 0
+  var yesCount_Minutes = 0
+  var noCount_Minutes = 0
+  var okCount_Minutes = 0
+  var naCount_Minutes = 0
+  var tbdCount_Minutes = 0
 
   var ProjectDescription = [];
   var ProjectDescription_yes = [];
@@ -22,13 +22,13 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   var ProjectDescription_tbd = [];
 
 
-  var status_BIM = [];
-  var BIMComments = [];
-  var BIMComments_yes = [];
-  var BIMComments_no = [];
-  var BIMComments_ok = [];
-  var BIMComments_na = [];
-  var BIMComments_tbd = [];
+  var status_Minutes = [];
+  var MinutesComments = [];
+  var MinutesComments_yes = [];
+  var MinutesComments_no = [];
+  var MinutesComments_ok = [];
+  var MinutesComments_na = [];
+  var MinutesComments_tbd = [];
 
 
   var ProjectNumber = [];
@@ -44,40 +44,40 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   ///////////////////////////////////////
   // (2-B1) LOOP THROUGH RESPONSES AND PUSH VALUES TO ARRAYS
   for (var i = 0; i < response.length; i++) {
-    if (response[i].BIM == "Yes") {
-      yesCount_BIM += 1
+    if (response[i].Minutes == "Yes") {
+      yesCount_Minutes += 1
       ProjectDescription_yes.push(response[i].ProjectDescription)
-      BIMComments_yes.push(response[i].BIMComments)
+      MinutesComments_yes.push(response[i].MinutesComments)
       ProjectNumber_yes.push(response[i].ProjectNumber)
 
-    } else if (response[i].BIM == "No") {
-      noCount_BIM += 1
+    } else if (response[i].Minutes == "No") {
+      noCount_Minutes += 1
       ProjectDescription_no.push(response[i].ProjectDescription)
-      BIMComments_no.push(response[i].BIMComments)
+      MinutesComments_no.push(response[i].MinutesComments)
       ProjectNumber_no.push(response[i].ProjectNumber)
 
-    } else if (response[i].BIM == "OK") {
-      okCount_BIM += 1
+    } else if (response[i].Minutes == "OK") {
+      okCount_Minutes += 1
       ProjectDescription_ok.push(response[i].ProjectDescription)
-      BIMComments_ok.push(response[i].BIMComments)
+      MinutesComments_ok.push(response[i].MinutesComments)
       ProjectNumber_ok.push(response[i].ProjectNumber)
 
-    } else if (response[i].BIM == "N A") {
-      naCount_BIM += 1
+    } else if (response[i].Minutes == "N A") {
+      naCount_Minutes += 1
       ProjectDescription_na.push(response[i].ProjectDescription)
-      BIMComments_na.push(response[i].BIMComments)
+      MinutesComments_na.push(response[i].MinutesComments)
       ProjectNumber_na.push(response[i].ProjectNumber)
 
 
     } else {
-      tbdCount_BIM += 1
+      tbdCount_Minutes += 1
       ProjectDescription_tbd.push(response[i].ProjectDescription)
-      BIMComments_tbd.push(response[i].BIMComments)
+      MinutesComments_tbd.push(response[i].MinutesComments)
       ProjectNumber_tbd.push(response[i].ProjectNumber)
 
     }
-    status_BIM.push(response[i].BIM)
-    BIMComments.push(response[i].BIMComments)
+    status_Minutes.push(response[i].Minutes)
+    MinutesComments.push(response[i].MinutesComments)
     ProjectDescription.push(response[i].ProjectDescription)
     ProjectNumber.push(response[i].ProjectNumber)
   };
@@ -86,33 +86,33 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   // console.log('Project Description: ', ProjectDescription)
   // console.log('Project Description_No: ', ProjectDescription_no)
   // console.log('Project Description_Yes: ', ProjectDescription_yes)
-  console.log('BIM Project Number, OK: ', ProjectNumber_ok )
-  console.log('BIM Comments, OK: ', BIMComments_ok )
+  console.log('Minutes Project Number, OK: ', ProjectNumber_ok )
+  console.log('Minutes Comments, OK: ', MinutesComments_ok )
   // console.log('Project Number, NO: ', ProjectNumber_no)
 
   ///////////////////////////////////// 
   // (2-D?) SET PARTIAL INFO FOR CLICK-EVENT
-  var myPlot = document.getElementById('plot_BIM_bar');
+  var myPlot = document.getElementById('plot_Minutes_bar');
 
   ///////////////////////////////////// 
-  // (2-E) SET BAR CHART DATA AND LAYOUT... AND RUN PLOTLY  (BIM)
-  var trace_BIM = {
+  // (2-E) SET BAR CHART DATA AND LAYOUT... AND RUN PLOTLY  (Minutes)
+  var trace_Minutes = {
     x: ["Yes", "N A", "TBD", "OK", "No"],
-    y: [yesCount_BIM, naCount_BIM, tbdCount_BIM, okCount_BIM, noCount_BIM],
+    y: [yesCount_Minutes, naCount_Minutes, tbdCount_Minutes, okCount_Minutes, noCount_Minutes],
     marker: {
       color: ['green', 'grey', 'royalblue', 'deeppink', 'crimson']
     },
     type: 'bar'
   };
 
-  var data_BIM = [trace_BIM];
+  var data_Minutes = [trace_Minutes];
 
-  var layout_BIM = {
-    title: "BIM Status",
+  var layout_Minutes = {
+    title: "Minutes Status",
     height: 350,
     width: 350,
   };
-  Plotly.newPlot("plot_BIM_bar", data_BIM, layout_BIM);
+  Plotly.newPlot("plot_Minutes_bar", data_Minutes, layout_Minutes);
 
   myPlot.on('plotly_click', function (data) {
     console.log(data)
@@ -125,35 +125,35 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     console.log(xAxis);
     if (xAxis == "Yes") {
       ProjectDescription_x = ProjectDescription_yes
-      BIMComments_x = BIMComments_yes
+      MinutesComments_x = MinutesComments_yes
       ProjectNumber_x = ProjectNumber_yes
       console.log(ProjectDescription_yes)
     }
 
     else if (xAxis == "N A") {
       ProjectDescription_x = ProjectDescription_na
-      BIMComments_x = BIMComments_na     
+      MinutesComments_x = MinutesComments_na     
       ProjectNumber_x = ProjectNumber_na
       console.log(ProjectDescription_na)
     }
     
     else if (xAxis == "TBD") {
       ProjectDescription_x = ProjectDescription_tbd
-      BIMComments_x = BIMComments_tbd     
+      MinutesComments_x = MinutesComments_tbd     
       ProjectNumber_x = ProjectNumber_tbd
       console.log(ProjectDescription_tbd)
     }
 
     else if (xAxis == "OK") {
       ProjectDescription_x = ProjectDescription_ok
-      BIMComments_x = BIMComments_ok   
+      MinutesComments_x = MinutesComments_ok   
       ProjectNumber_x = ProjectNumber_ok
       console.log(ProjectDescription_ok)
     }
 
     else if (xAxis == "No") {
       ProjectDescription_x = ProjectDescription_no
-      BIMComments_x = BIMComments_no   
+      MinutesComments_x = MinutesComments_no   
       ProjectNumber_x = ProjectNumber_no   
       console.log(ProjectDescription_no)
     }
@@ -168,12 +168,12 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
       table_alert += "<td>" + ProjectNumber_x[i] + "</td>";
       
       table_alert += "<td>" + ProjectDescription_x[i] + "</td>";
-      table_alert += "<td>" + BIMComments_x[i] + "</td>";
+      table_alert += "<td>" + MinutesComments_x[i] + "</td>";
       table_alert += "</tr>";
     }
     table_alert += "</table>";
 
-    document.getElementById("populating_table_BIM").innerHTML = table_alert;
+    document.getElementById("populating_table_Minutes").innerHTML = table_alert;
   })
   
 });
