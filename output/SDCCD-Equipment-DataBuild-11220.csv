@@ -1,0 +1,537 @@
+AssetIDNo,Building,CSI,CSI Div,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,sheet
+,Voc Tech,05-Metals,5,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Misc Metal,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,"06-Wood, Plastics, etc.",6,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Casework / Shelving / Counters,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Composite Metal Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Rain Screen System,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roof Accessories (i.e roof ladder; roof hatch),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roofing (PVC) and other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Waterproofing (Other),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roof Walking Pad,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,07-Thermal/Moisture-Protect,7,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Solar Glass (see Solar Panels),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Access Door,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Curtain Wall Exterior Window System,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Doors,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hardware - panic devices,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Overhead coiling doors,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,SolarTubes (Operable and not operable),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Windows / Glazing,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,08-Openings,8,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Door Hardware - related to FLS; panic hardware/ elec door holdopens / (see also ADA access buttons),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Paint (use for take-off SF estimates of paint?? - planning),Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Anti-Graffiti Coating,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Acoustic Panel Ceiling,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,no,,TBD,,,,,,,24.0,,Flooring - carpet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Flooring - other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Flooring - vct,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,09-Finishes,9,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Wall covering (fabric vs frp etc) - track manufacturer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Paper Towel Dispenser,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Soap Dispenser,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Toilet Paper Dispenser,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Toilet Seat Cover Dispenser,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Elec Hand Dryer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sanitary Napkin/Tampon Dispenser,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Toilet & Urinal Compartments / Bathroom Stalls,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Baby Changing Apparatus in Bathroom,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,ADA Bathroom Grab Bars,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bathroom trash can (recessed),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Mirror,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Restroom,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Tack Board - small,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,White Boards - small,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Fire Extinguishers /FE Cabinets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Modular Office Walls,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Fire Curtain / Fire Wall,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Defibrillator Cabinets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Display Case (i.e. Recessed Display Case / Lockable),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,Yes,,TBD,,,,,,,24.0,,Operable Wall,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Signage - Egress,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Tack Board - large,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,White Boards - large,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Parking Signage (incl ADA),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Emergency Key Cabinets (i.e. Knox-Box),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Corner Guard / Wall Guard,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Locker room benches,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Signage - Directional,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,10-Specialties,10,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Signage - Rooms,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Fixed Projection Screens (motorized and manual),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Classroom,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Glove dispesner,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Coffee Maker (i.e. Airpot; Expresso Machine/Grinder),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Dishwasher,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Food Service Equipment (Other / Specialized),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Freezer / Walk-in Cooler -- Fixed,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Freezer / Walk-in Cooler -- Non-Fixed,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Ice Maker,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Microwave,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Mixer/Blender,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Prep Sink,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Oven,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,POS cash register / point of sale,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Water Filration System,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Food Service Sinks / Dipperwell Assembly,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Freezer Merchandiser,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Garbage disposer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hot cabinets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,General food service millwork,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Food-Service,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Parking Control Equipment (i.e. Parking Permit Machine),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Cabinets (with drawers/doors),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Counters (with drawers/doors),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,Yes,,TBD,,,,,,,24.0,,Employee lockers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Faucet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Grease Interceptor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hot water heater,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Knock Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Window Washing Davit Base,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,11-Equipment,11,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Window Washing Equipment,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Systems Furniture / Cubicles,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Office,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bench,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Site,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bike Rack,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Site,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bus Shelter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Site,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Picnic Table,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Site,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Site Furnishings: Trash Can ' Litter Receptacle,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Site,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Furniture - Other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Modular Canopy Shades,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Portable table with stacking chairs,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Auditorium Seating,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Blinds /Shades / Curtains (Window Covering),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Student Chairs,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Student Desks,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Walk off Mat,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,12-Furnishings,12,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Stadium Seating,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,14-Conveying-Equip,14,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Elevator,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,14-Conveying-Equip,14,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Elevator Room Equipment,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,14-Conveying-Equip,14,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Wheelchair Lift,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,21-Fire-Suppression,21,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fire Hydrant,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,21-Fire-Suppression,21,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Backflow Device,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,21-Fire-Suppression,21,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Fire Sprinkler Heads,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,21-Fire-Suppression,21,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Fire Protection Standpipe Control Valve; Zone Control Riser Valve Assembly,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Condensate Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Domestic Water storage tank on roof; tower,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Hot Water Circ Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Drinking Fountains (ADA etc),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hot Water Heater,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Toilet / Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Drinking Fountain - Electric,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Mop Sink / Floor Sink,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Gas Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hose Bibb,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Lavatory (Bathroom as a Unit to be tracked),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roof drain / roof receptor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sink - Classroom,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sink - Kitchenette,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Urinal,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Valves (inside/outside),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Boiler & tank; Water Heater (see Water Heater Schedule),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Water Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Floor Drain,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,CHWP (Chilled Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,HWP (Hot Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,"Piping, etc",No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,SP-1,City,,,,,,,,,,,,,,,,,LL,24.0,,Pump - Sewer Sump,,,,,,,,TBD,,,Tab 6,,,11220.0,,Career Technology Center,,,,,,,,P2.0,,,,,,,No,,,,,11220
+,Voc Tech,22-Plumbing,22,DI-1,City,,,,,,,,,,,,,,,,,5,24.0,,Deionized (D.I.) Water System,,,,,,,,TBD,,,Tab 4,,,11220.0,,Career Technology Center,,,,,,,,P2.5,,,,,,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Filters,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,AH - Air Handling Unit - see AHU Schedule,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Air Cooled Chiller - CH,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Air Separator Schedule - AS,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Chilled Water Pump,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Condensing Unit,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Controls Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,CWST (ST) - Chilled Water Storage Tank,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Exhast Fan - EF,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Expansion Tank - ET,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Hot Water Pump,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Sensor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Split System - CU (Outside),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Split System - FC (Inside),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Thermostats,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,VAV - Variable Air Volume Terminal Schedule,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Volume Damper,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Operable Gate in Mechanical Screen,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Diffusers - Exhaust Air,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Diffusers - Return Air,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Diffusers - Supply Air,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Fire Smoke Dampers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roof Curbs,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Exterior Ductwork,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Exterior Grilles,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,11,Fitness Center,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,LL,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,111,Admin Work,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,110,Admin Office,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,121,Hallway,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,120,Police Reception,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,117,Officer Workstation,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,119,Admin Office,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,130,Fac Office,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,128,Dispensary Supply,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,132,Hallway,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,134,Fac Office,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,FC-1,City,,,,,,,,,,,,,,,,,1,24.0,,FC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,106,MDF Room,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,1,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,230,Unisex RR,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,222,Dispensary,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,2,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,336,Control Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,337,Med Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,338,Control Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,319,Fac Office,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,346,,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,347,Exam Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,309,MultiPurpose Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,3,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,414,Fac Office,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,419,Nursing Multi Classroom,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-2,City,,,,,,,,,,,,,,,,,4,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-4,City,,,,,,,,,,,,,,,,,4,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-6,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,4,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,515,Digital / Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,531,Film Load,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,533,Digital/Analog Repair Office,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,509,Digital/Analog Equip Issue & Storage Room,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-5,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-7,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,541,Digital/ Analog Multi Critique Studio,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-4,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,536,Equipment Storage,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-2,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-1,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,VAV-3,City,,,,,,,,,,,,,,,,,5,24.0,,VAV,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-9,City,,,,,,,,,,,,,,,,,R,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-5,City,,,,,,,,,,,,,,,,,R,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-3,City,,,,,,,,,,,,,,,,,R,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,FC-2,City,,,,,,,,,,,,,,,,,R,24.0,,FC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,FC-3,City,,,,,,,,,,,,,,,,,R,24.0,,FC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,AC-1,City,,,,,,,,,,,,,,,,,R,24.0,,AC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,AC-2,City,,,,,,,,,,,,,,,,,R,24.0,,AC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,AC-3,City,,,,,,,,,,,,,,,,,R,24.0,,AC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,AC-4,City,,,,,,,,,,,,,,,,,R,24.0,,AC,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,CU-1,City,,,,,,,,,,,,,,,,,R,24.0,,CU,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,CU-2,City,,,,,,,,,,,,,,,,,R,24.0,,CU,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,CU-3,City,,,,,,,,,,,,,,,,,R,24.0,,CU,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,B-1,City,,,,,,,,,,,,,,,,,R,24.0,,B,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,B-2,City,,,,,,,,,,,,,,,,,R,24.0,,B,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,P-1,City,,,,,,,,,,,,,,,,,R,24.0,,P,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,P-2,City,,,,,,,,,,,,,,,,,R,24.0,,P,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,AS-1,City,,,,,,,,,,,,,,,,,R,24.0,,AS,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,ET-1,City,,,,,,,,,,,,,,,,,R,24.0,,ET,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,Yes,,,,,11220
+,Voc Tech,23-HVAC,23,EF-1,City,,,,,,,,,,,,,,,,,LL,24.0,,EF,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,LL,Lower Level,,,,M2.0P,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,UPS - Uninteruptable Power Supply,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Washing Machine / Dryer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Electric Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Elevator Smoke Door,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Lighting Control Panel; Network Lighting Controls,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bloom boxes - power,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,SDGE Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Street Light / Pathway Light,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Dedicated Power for BTU Meter (Gas Meter),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,Yes,,TBD,,,,,,,24.0,,Egress / Emergency Lighting,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Elec hand wash / sink,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Electrical Cabinets and Enclosures,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Lighting Fixtures; Luminaire Schedule,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Lighting Inverter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Panel Boards,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Switchboards; Wall-Mounted Panelboards,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Transformer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,TVSS - Transient Voltage Surge Suppressor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Solar Panels,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Junction Boxes,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Substation??,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Elec outlets / power outlets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Wall Switch,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,26-Electrical,26,MSB,City,,,,,,,,,,,,,,,,,Site,24.0,,Main Switchboard,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,Site,24.0,,Fuse Cabinet,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(east),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,Site,24.0,,Transformer,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(northwest),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,14,City,,,,,,,,,,,,,,,,,Site,24.0,,PV System Disconnect,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,14,City,,,,,,,,,,,,,,,,,Site,24.0,,PV System Disconnect,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,15,City,,,,,,,,,,,,,,,,,Site,24.0,,PV System Net Output Meter,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,,24.0,,PV System Inverter,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,,,,,,E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,Site,24.0,,Transformer,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIAA,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIAB,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIBB,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIBA,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,DLP1,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PDU A,City,,,,,,,,,,,,,,,,,1,24.0,,Power Distribution Unit,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIE,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,UPS,City,,,,,,,,,,,,,,,,,1,24.0,,UPS,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,1,24.0,,GMS Transmitter Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,1,24.0,,EMS Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,1,24.0,,Security Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,HL1,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,HP1,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,FACP,City,,,,,,,,,,,,,,,,,1,24.0,,Fire Alarm Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PID,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-110A,Skincare Treatment,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,PIC,City,,,,,,,,,,,,,,,,,1,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-112A,Skincare Treatment,,,,E2.1; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,1,24.0,,Security Communicator,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2AA,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2AB,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2BB,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2BA,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,DLP2,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,2,24.0,,GMS Transmitter Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,2,24.0,,EMS Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,2,24.0,,Security Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2D,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2C,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,HP2,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2E,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,P2F,City,,,,,,,,,,,,,,,,,2,24.0,,Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,SNAC-2,City,,,,,,,,,,,,,,,,,2,24.0,,Fire Alarm Panel,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,26-Electrical,26,,City,,,,,,,,,,,,,,,,,2,24.0,,Security Communicator,,,,,,,,,,,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,,Yes,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Assisted Listening System Receivers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Projector (LCD - Ceiling Mounted),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Teaching Podium Control Stations,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Television / Monitor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Clocks,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Public Announcement System,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,?,?,,TBD,,,,,,,24.0,,BlueRay/DVD/Video Streamer,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,LCD Screens / Digital Signage,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,27-Communications,27,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Data Outlet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Heat Detector,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Fire,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Horn/Strobe,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Fire,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Manual Pull Stations,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Fire,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Mini Horn,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Fire,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Motion Detector,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Security,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Panic Switch,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,Security,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Battery Backup -- see UPS,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Card Reader / Security / Keypad,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Door Contact,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Fire Alarm LCD Annunciator Panel; Notifier Panels,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Fire Sprinkler System (Existence of in Building),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Security Alarm/Keypad,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Smoke Guard,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Access Control Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Emergency Telephone Box; Emergency Wall Phone,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fire Alarm Relays,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fire Alarm Transponder,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fire Smoke Dampers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fire Sprinkler Control Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Carbon Dioxide Sensor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,FACP - Fire Alarm Control Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,FATC - Fire Alarm Terminal Cabinet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Fire Strobes,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,FSCP - Firefighter's Smoke Control Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Knox Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Pre-Action Release Panel,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Projector Alarm with Relay,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,SCDC - Smoke Control Damper Cabinet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,SCTC - Smoke Control Terminal Cabinet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Security Cameras (CCTV?),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,28-Elec-Safety-Security,28,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Smoke Detectors,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,31-Earthwork,31,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Retaining Walls,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,31-Earthwork,31,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Caissons,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Site benches,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Exterior kiosk,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,ADA Curb Ramps,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,ADA Ramps,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Traffic Control - Signs/Speed Bumps,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Trees,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Motorized Gate / Controllers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Parking sensors,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Patio furniture,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Backflow Device,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Flow Sensor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Irrigation Controller,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Irrigation Heads/Bubblers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Irrigation Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Irrigation Valves - in General,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Exterior Temperature Sensor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Curb and Gutter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Curb Ramps,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Driveway/Hardscape/Pavers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Downspouts,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Fence,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Irrigation Valves (Air Relief Valve),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Irrigation Valves (Ball Valve),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Irrigation Valves (Master Control),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Irrigation Valves (Quick Coupler Valve),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Irrigation Valves (Remote Control),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Asphalt,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Bollards,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Gate - Non-Motorized,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Iron Fencing,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Parking Stops,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,32-Ext-Improvements,32,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sidewalk / Exterior,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Exterior Drain,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Sewer Lateral,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Sewer Line,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Sewer Manhole/Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Storm Drain,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Storm Drain Manhole/Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,SWPPP BMP's,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Water Lateral,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Water Line,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Water Meter Box,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Gas Meters,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Items with Pilot Lights (need to get re-lit after gas shutdown),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,33-Utilities,33,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Water Valve - types,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,44-Pollution-Waste-Equip,44,,City,,,,,,,,?,Yes,,TBD,,,,,,,24.0,,HazMat Storage,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Chemistry,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Astronomy,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Biology,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Science - Cadaver / Equip,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Fume Hoods,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Sewing,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Auto,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational Electrical,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational HVAC,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational IT/GIS,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Fine Art (i.e. Kilns),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Fitness / Exercise,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Manufacturing Machinery,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Medical / Dental,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Agriculture (Greenhouse),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Animal Health,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Aviation,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Cosmotology / Fashion,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Culinary,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Fire EMT,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Photography,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Radio Station,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Educational - Other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Theatre / Costuming,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - TV Studio,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - EVOC,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Music,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-50-Furniture,A-50,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,filing cabinets,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-50-Furniture,A-50,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,tables,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-50-Furniture,A-50,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,desks,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-50-Furniture,A-50,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,chairs,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,desk-lights,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,keyboards / mice,Yes,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,computers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,servers,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,printers / copiers / scanners,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,Yes,?,,TBD,,,,,,,24.0,,server UPS,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-51-Info-Tech,A-51,,City,,,,,,,,Yes,?,,TBD,,,,,,,24.0,,software,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-52-Police Equip,A-52,,City,,,,,,,,Yes,?,,TBD,,,,,,,24.0,,Weapons,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-53-MO Equip,A-53,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Tools (over $200),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-53-MO Equip,A-53,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,compressors,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-53-MO Equip,A-53,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,"Forklifts, etc (DSC); cranes",No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,A-54-Vehicles,A-54,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Cars / Carts (DSC),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220

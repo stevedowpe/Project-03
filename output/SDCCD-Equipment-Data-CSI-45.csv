@@ -1,125 +1,125 @@
-Asset Tag #,Building,CSI,CSI Div,Callout,Contract,Contractor,Currently Indiv item tracked?,Currently Waldrop ID Tag?,FA Tag #,Floor,Fusion #,General vs Fixed-Asset,Item,Item a Consumable ?,Latitude,Longitide,Make,Model,O&M Binder #,OM,OM_Count,Project #,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,Sub-Group,Submittals,Submittals_Count,Unnamed: 1,Unnamed: 16,Unnamed: 20,Unnamed: 27,Unnamed: 32,Unnamed: 34,Unnamed: 37,Unnamed: 9,Warranty,Warranty Duration,Warranty Expires,Warranty Start,Warranty_Count,sheet
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Chemistry,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Other,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Astronomy,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Biology,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,?,No,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,No,,,,,Fume Hoods,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Sewing,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Auto,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational Electrical,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational HVAC,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational IT/GIS,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fitness / Exercise,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Manufacturing Machinery,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Medical / Dental,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Animal Health,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Aviation,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Cosmotology / Fashion,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Culinary,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Fire EMT,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Photography,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Radio Station,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Educational - Other,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - Theatre / Costuming,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - TV Studio,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Equipment - EVOC,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,No,No,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,?,No,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,?,No,,,,,Equipment - Music,No,,,,,,TBD,1.0,11110.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,?,No,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,TBD,1.0,11110.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11110
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Chemistry,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Other,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Astronomy,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Biology,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,?,No,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,No,,,,,Fume Hoods,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Sewing,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Auto,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational Electrical,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational HVAC,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational IT/GIS,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fitness / Exercise,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Manufacturing Machinery,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Medical / Dental,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Animal Health,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Aviation,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Cosmotology / Fashion,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Culinary,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Fire EMT,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Photography,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Radio Station,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Educational - Other,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - Theatre / Costuming,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - TV Studio,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Equipment - EVOC,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,No,No,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,?,No,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,?,No,,,,,Equipment - Music,No,,,,,,TBD,1.0,11220.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,?,No,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,TBD,1.0,11220.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11220
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Chemistry,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Other,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Astronomy,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Biology,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,?,No,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,No,,,,,Fume Hoods,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Sewing,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Auto,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational Electrical,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational HVAC,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational IT/GIS,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fitness / Exercise,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Manufacturing Machinery,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Medical / Dental,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Animal Health,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Aviation,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Cosmotology / Fashion,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Culinary,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Fire EMT,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Photography,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Radio Station,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Educational - Other,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - Theatre / Costuming,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - TV Studio,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Equipment - EVOC,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,No,No,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,?,No,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,?,No,,,,,Equipment - Music,No,,,,,,TBD,1.0,11240.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,?,No,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,TBD,1.0,11240.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11240
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Chemistry,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Other,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Astronomy,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Science - Biology,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,?,No,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,Science,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,No,,,,,Fume Hoods,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Sewing,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Auto,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational Electrical,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational HVAC,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Educational IT/GIS,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Fitness / Exercise,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Manufacturing Machinery,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,Yes,Yes,,,,,Equipment - Medical / Dental,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Animal Health,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Aviation,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Cosmotology / Fashion,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Culinary,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Fire EMT,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Photography,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Radio Station,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Educational - Other,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - Theatre / Costuming,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - TV Studio,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Equipment - EVOC,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,No,No,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,?,No,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,?,No,,,,,Equipment - Music,No,,,,,,TBD,1.0,11250.0,Yes,Yes,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
-,,45-Industry,45,,,,?,No,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,TBD,1.0,11250.0,Yes,No,,,TBD,1.0,,,,,,,,,TBD,,,,1.0,11250
+AssetIDNo,Building,CSI,CSI Div,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,sheet
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Chemistry,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Other,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Astronomy,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Biology,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,No,,TBD,,,,,,,,,Fume Hoods,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Sewing,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Auto,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational Electrical,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational HVAC,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational IT/GIS,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fitness / Exercise,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Manufacturing Machinery,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Medical / Dental,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Animal Health,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Aviation,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Cosmotology / Fashion,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Culinary,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Fire EMT,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Photography,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Radio Station,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Educational - Other,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Theatre / Costuming,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - TV Studio,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - EVOC,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,,TBD,,,,,,,11110.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Music,No,,,,,,,TBD,,,,,,,11110.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11110
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,,TBD,,,,,,,11110.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11110
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Chemistry,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Astronomy,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Science - Biology,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Science - Cadaver / Equip,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,Science,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Fume Hoods,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Sewing,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Auto,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational Electrical,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational HVAC,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Educational IT/GIS,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Fine Art (i.e. Kilns),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Fitness / Exercise,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Manufacturing Machinery,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,24.0,,Equipment - Medical / Dental,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Agriculture (Greenhouse),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Animal Health,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Aviation,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Cosmotology / Fashion,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Culinary,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Fire EMT,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Photography,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Radio Station,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Educational - Other,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - Theatre / Costuming,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - TV Studio,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Equipment - EVOC,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Equipment - Music,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Chemistry,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Other,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Astronomy,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Biology,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,No,,TBD,,,,,,,,,Fume Hoods,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Sewing,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Auto,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational Electrical,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational HVAC,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational IT/GIS,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fitness / Exercise,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Manufacturing Machinery,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Medical / Dental,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Animal Health,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Aviation,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Cosmotology / Fashion,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Culinary,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Fire EMT,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Photography,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Radio Station,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Educational - Other,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Theatre / Costuming,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - TV Studio,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - EVOC,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,,TBD,,,,,,,11240.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Music,No,,,,,,,TBD,,,,,,,11240.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,,TBD,,,,,,,11240.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11240
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Chemistry,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Other,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Astronomy,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Science - Biology,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Science - Cadaver / Equip,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,Science,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,No,,TBD,,,,,,,,,Fume Hoods,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Sewing,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Auto,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational Electrical,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational HVAC,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Educational IT/GIS,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fine Art (i.e. Kilns),No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Fitness / Exercise,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Manufacturing Machinery,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,Yes,Yes,,TBD,,,,,,,,,Equipment - Medical / Dental,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Agriculture (Greenhouse),No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Animal Health,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Aviation,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Cosmotology / Fashion,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Culinary,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Fire EMT,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Photography,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Radio Station,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Educational - Other,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - Theatre / Costuming,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - TV Studio,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Equipment - EVOC,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,No,No,,TBD,,,,,,,,,Emergency Eyewash Stations (2/26/18 CW says no systematic plan to check on jobwalk),No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Sports (i.e. Pole Vault Mats),No,,,,,,,TBD,,,,,,,11250.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Equipment - Music,No,,,,,,,TBD,,,,,,,11250.0,,Yes,Yes,,,,,,,,,,,TBD,,,,,,,11250
+,,45-Industry,45,,City,,,,,,,,?,No,,TBD,,,,,,,,,Chemical Shelf / Storage Cabinet for Flammable Storage,No,,,,,,,TBD,,,,,,,11250.0,,Yes,No,,,,,,,,,,,TBD,,,,,,,11250
