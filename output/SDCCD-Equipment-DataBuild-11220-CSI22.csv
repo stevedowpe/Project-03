@@ -1,26 +1,26 @@
 AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,sheet
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Condensate Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Domestic Water storage tank on roof; tower,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Hot Water Circ Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Drinking Fountains (ADA etc),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hot Water Heater,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Toilet / Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Drinking Fountain - Electric,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Mop Sink / Floor Sink,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Gas Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Hose Bibb,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Lavatory (Bathroom as a Unit to be tracked),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Roof drain / roof receptor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sink - Classroom,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Sink - Kitchenette,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Urinal,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Valves (inside/outside),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Boiler & tank; Water Heater (see Water Heater Schedule),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Water Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Floor Drain,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,CHWP (Chilled Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,HWP (Hot Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
-,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,"Piping, etc",No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Category: Condensate Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Category: Domestic Water storage tank on roof; tower,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,Yes,No,,TBD,,,,,,,24.0,,Category: Hot Water Circ Pump / Pump Sched Info,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Drinking Fountains (ADA etc),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Hot Water Heater,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Toilet / Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Drinking Fountain - Electric,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Mop Sink / Floor Sink,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Gas Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Hose Bibb,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Lavatory (Bathroom as a Unit to be tracked),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Roof drain / roof receptor,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Sink - Classroom,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Sink - Kitchenette,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Urinal,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Valves (inside/outside),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Water Closet,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Boiler & tank; Water Heater (see Water Heater Schedule),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,,,,,,,24.0,,Category: Water Meter,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: Floor Drain,No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: CHWP (Chilled Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,Category: HWP (Hot Water Pipe),No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,,,,,,,24.0,,"Category: Piping, etc",No,,,,,,,TBD,,,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,,No,,,,,11220
 ,Voc Tech,22-Plumbing,,22,SP-1,City,,,,,,,,,,,,,,,,FA-Test-01,LL,24.0,,Pump - Sewer Sump,,,,,,,,TBD,,,Tab 6,,,11220.0,,Career Technology Center,,,15,Pump Room,,,,P2.0,,,,,,,Yes,,,,,11220
 ,Voc Tech,22-Plumbing,,22,DI-1,City,,,,,,,,,,,,,,,,FA-Test-02,5,24.0,,Deionized (D.I.) Water System,,,,,,,,TBD,,,Tab 4,,,11220.0,,Career Technology Center,,,530,Film Load,,,,P2.5,,,,,,,Yes,,,,,11220
