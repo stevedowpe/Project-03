@@ -161,10 +161,10 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     }
 
     var table_alert = '<table>'
-    table_alert += "<th>Proj#__</th>"+"<th>Project Name</th>"+"<th>DSA Number</th>"
+    table_alert += "<th>Proj#__</th>"+"<th>Project Name</th>"+"<th>DSA #</th>"
     for (var i = 0; i < ProjectDescription_x.length; i++) {
       table_alert += "<tr>";
-      table_alert += "<td>" + ProjectNumber_x[i] + "</td>";
+      table_alert += "<td>" + ProjectNumber_x[i] +"_"+ "</td>";
       table_alert += "<td>" + ProjectDescription_x[i] +"__" + "</td>";
       table_alert += "<td>" + DSANumber_x[i] + "</td>";
       table_alert += "</tr>";

@@ -1,6 +1,6 @@
 // (1) READ IN CSV FILE
 
-Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (error, response) {
+Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (error, response) {
   console.log('RESPONSE:', response);
   ////////////////////////////////////////
   ////////////////////////////////////////
@@ -118,7 +118,7 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
 
   ///////////////////////////////////// 
   // (2-D?) SET PARTIAL INFO FOR CLICK-EVENT
-  var myPlot = document.getElementById('plot_Takeoff_bar_22');
+  var myPlot = document.getElementById('plot_Takeoff_bar_26');
 
   ///////////////////////////////////// 
   // (2-E) SET BAR CHART DATA AND LAYOUT... AND RUN PLOTLY  (Takeoff)
@@ -138,7 +138,7 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
     height: 350,
     width: 350,
   };
-  Plotly.newPlot("plot_Takeoff_bar_22", data_Takeoff, layout_Takeoff);
+  Plotly.newPlot("plot_Takeoff_bar_26", data_Takeoff, layout_Takeoff);
 
   myPlot.on('plotly_click', function (data) {
     console.log(data)
@@ -210,7 +210,7 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
     }
     table_alert += "</table>";
 
-    document.getElementById("populating_table_Takeoff_22").innerHTML = table_alert;
+    document.getElementById("populating_table_Takeoff_26").innerHTML = table_alert;
   })
   
 });

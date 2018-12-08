@@ -23,12 +23,12 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
 
 
   var status_Warranties = [];
-  var WarrantiesCWarrantiesments = [];
-  var WarrantiesCWarrantiesments_yes = [];
-  var WarrantiesCWarrantiesments_no = [];
-  var WarrantiesCWarrantiesments_ok = [];
-  var WarrantiesCWarrantiesments_na = [];
-  var WarrantiesCWarrantiesments_tbd = [];
+  var WarrantiesComments = [];
+  var WarrantiesComments_yes = [];
+  var WarrantiesComments_no = [];
+  var WarrantiesComments_ok = [];
+  var WarrantiesComments_na = [];
+  var WarrantiesComments_tbd = [];
 
 
   var ProjectNumber = [];
@@ -47,37 +47,37 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     if (response[i].Warranties == "Yes") {
       yesCount_Warranties += 1
       ProjectDescription_yes.push(response[i].ProjectDescription)
-      WarrantiesCWarrantiesments_yes.push(response[i].WarrantiesCWarrantiesments)
+      WarrantiesComments_yes.push(response[i].WarrantiesComments)
       ProjectNumber_yes.push(response[i].ProjectNumber)
 
     } else if (response[i].Warranties == "No") {
       noCount_Warranties += 1
       ProjectDescription_no.push(response[i].ProjectDescription)
-      WarrantiesCWarrantiesments_no.push(response[i].WarrantiesCWarrantiesments)
+      WarrantiesComments_no.push(response[i].WarrantiesComments)
       ProjectNumber_no.push(response[i].ProjectNumber)
 
     } else if (response[i].Warranties == "OK") {
       okCount_Warranties += 1
       ProjectDescription_ok.push(response[i].ProjectDescription)
-      WarrantiesCWarrantiesments_ok.push(response[i].WarrantiesCWarrantiesments)
+      WarrantiesComments_ok.push(response[i].WarrantiesComments)
       ProjectNumber_ok.push(response[i].ProjectNumber)
 
     } else if (response[i].Warranties == "N A") {
       naCount_Warranties += 1
       ProjectDescription_na.push(response[i].ProjectDescription)
-      WarrantiesCWarrantiesments_na.push(response[i].WarrantiesCWarrantiesments)
+      WarrantiesComments_na.push(response[i].WarrantiesComments)
       ProjectNumber_na.push(response[i].ProjectNumber)
 
 
     } else {
       tbdCount_Warranties += 1
       ProjectDescription_tbd.push(response[i].ProjectDescription)
-      WarrantiesCWarrantiesments_tbd.push(response[i].WarrantiesCWarrantiesments)
+      WarrantiesComments_tbd.push(response[i].WarrantiesComments)
       ProjectNumber_tbd.push(response[i].ProjectNumber)
 
     }
     status_Warranties.push(response[i].Warranties)
-    WarrantiesCWarrantiesments.push(response[i].WarrantiesCWarrantiesments)
+    WarrantiesComments.push(response[i].WarrantiesComments)
     ProjectDescription.push(response[i].ProjectDescription)
     ProjectNumber.push(response[i].ProjectNumber)
   };
@@ -87,7 +87,7 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
   // console.log('Project Description_No: ', ProjectDescription_no)
   // console.log('Project Description_Yes: ', ProjectDescription_yes)
   console.log('Warranties Project Number, OK: ', ProjectNumber_ok )
-  console.log('Warranties CWarrantiesments, OK: ', WarrantiesCWarrantiesments_ok )
+  console.log('Warranties CWarrantiesments, OK: ', WarrantiesComments_ok )
   // console.log('Project Number, NO: ', ProjectNumber_no)
 
   ///////////////////////////////////// 
@@ -125,35 +125,35 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     console.log(xAxis);
     if (xAxis == "Yes") {
       ProjectDescription_x = ProjectDescription_yes
-      WarrantiesCWarrantiesments_x = WarrantiesCWarrantiesments_yes
+      WarrantiesComments_x = WarrantiesComments_yes
       ProjectNumber_x = ProjectNumber_yes
       console.log(ProjectDescription_yes)
     }
 
     else if (xAxis == "N A") {
       ProjectDescription_x = ProjectDescription_na
-      WarrantiesCWarrantiesments_x = WarrantiesCWarrantiesments_na     
+      WarrantiesComments_x = WarrantiesComments_na     
       ProjectNumber_x = ProjectNumber_na
       console.log(ProjectDescription_na)
     }
     
     else if (xAxis == "TBD") {
       ProjectDescription_x = ProjectDescription_tbd
-      WarrantiesCWarrantiesments_x = WarrantiesCWarrantiesments_tbd     
+      WarrantiesComments_x = WarrantiesComments_tbd     
       ProjectNumber_x = ProjectNumber_tbd
       console.log(ProjectDescription_tbd)
     }
 
     else if (xAxis == "OK") {
       ProjectDescription_x = ProjectDescription_ok
-      WarrantiesCWarrantiesments_x = WarrantiesCWarrantiesments_ok   
+      WarrantiesComments_x = WarrantiesComments_ok   
       ProjectNumber_x = ProjectNumber_ok
       console.log(ProjectDescription_ok)
     }
 
     else if (xAxis == "No") {
       ProjectDescription_x = ProjectDescription_no
-      WarrantiesCWarrantiesments_x = WarrantiesCWarrantiesments_no   
+      WarrantiesComments_x = WarrantiesComments_no   
       ProjectNumber_x = ProjectNumber_no   
       console.log(ProjectDescription_no)
     }
@@ -162,13 +162,12 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     }
 
     var table_alert = '<table>'
-    table_alert += "<th>Project Number</th>", "<th>Project Names</th>"
+    table_alert += "<th>Proj#__</th>"+"<th>Project Name</th>"+"<th>Comments</th>"
     for (var i = 0; i < ProjectDescription_x.length; i++) {
       table_alert += "<tr>";
-      table_alert += "<td>" + ProjectNumber_x[i] + "</td>";
-      
-      table_alert += "<td>" + ProjectDescription_x[i] + "</td>";
-      table_alert += "<td>" + WarrantiesCWarrantiesments_x[i] + "</td>";
+      table_alert += "<td>" + ProjectNumber_x[i] +"_"+ "</td>";
+      table_alert += "<td>" + ProjectDescription_x[i] +"_"+ "</td>";
+      table_alert += "<td>" + WarrantiesComments_x[i] + "</td>";
       table_alert += "</tr>";
     }
     table_alert += "</table>";

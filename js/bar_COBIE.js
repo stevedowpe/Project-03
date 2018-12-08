@@ -162,12 +162,11 @@ Plotly.d3.csv("output/SDCCD-Program-Close-Data.csv", function (error, response) 
     }
 
     var table_alert = '<table>'
-    table_alert += "<th>Project Number</th>", "<th>Project Names</th>"
+    table_alert += "<th>Proj#__</th>"+"<th>Project Name</th>"+"<th>Comments</th>"
     for (var i = 0; i < ProjectDescription_x.length; i++) {
       table_alert += "<tr>";
-      table_alert += "<td>" + ProjectNumber_x[i] + "</td>";
-      
-      table_alert += "<td>" + ProjectDescription_x[i] + "</td>";
+      table_alert += "<td>" + ProjectNumber_x[i] + "_"+"</td>";
+      table_alert += "<td>" + ProjectDescription_x[i] +"_"+ "</td>";
       table_alert += "<td>" + COBIEComments_x[i] + "</td>";
       table_alert += "</tr>";
     }

@@ -6,13 +6,13 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
   ////////////////////////////////////////
   ///////////////////////////////////////
 
-  // (2) TAKEOFF CHART
+  // (2) OM CHART
   // (2-A) SET BLANK VARIABLE ARRAYS
-  var yesCount_Takeoff = 0
-  var noCount_Takeoff = 0
-  var okCount_Takeoff = 0
-  var naCount_Takeoff = 0
-  var tbdCount_Takeoff = 0
+  var yesCount_OM = 0
+  var noCount_OM = 0
+  var okCount_OM = 0
+  var naCount_OM = 0
+  var tbdCount_OM = 0
 
   var Item = [];
   var Item_yes = [];
@@ -22,7 +22,7 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
   var Item_tbd = [];
 
 
-  var status_Takeoff = [];
+  var status_OM = [];
   var Callout = [];
   var Callout_x = [];
   var Callout_yes = [];
@@ -57,88 +57,146 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
   var Room_na = [];
   var Room_tbd = [];
 
+  var OMBinderNo = [];
+  var OMBinderNo_x =[];
+  var OMBinderNo_yes = [];
+  var OMBinderNo_no = [];
+  var OMBinderNo_ok = [];
+  var OMBinderNo_na = [];
+  var OMBinderNo_tbd = [];
+
+
+  var OMTabNo = [];
+  var OMTabNo_x =[];
+  var OMTabNo_yes = [];
+  var OMTabNo_no = [];
+  var OMTabNo_ok = [];
+  var OMTabNo_na = [];
+  var OMTabNo_tbd = [];
+
+
+  var OMDigital = [];
+  var OMDigital_x =[];
+  var OMDigital_yes = [];
+  var OMDigital_no = [];
+  var OMDigital_ok = [];
+  var OMDigital_na = [];
+  var OMDigital_tbd = [];
 
   ///////////////////////////////////////
   // (2-B1) LOOP THROUGH RESPONSES AND PUSH VALUES TO ARRAYS
   for (var i = 0; i < response.length; i++) {
-    if (response[i].Takeoff == "Yes") {
-      yesCount_Takeoff += 1
+    if (response[i].OM == "Yes") {
+      yesCount_OM += 1
       Item_yes.push(response[i].Item)
       Callout_yes.push(response[i].Callout)
       Sheet_yes.push(response[i].Sheet)
       FAIDNo_yes.push(response[i].FAIDNo)
       Room_yes.push(response[i].Room)
+      OMBinderNo_yes.push(response[i].OMBinderNo)
+      OMTabNo_yes.push(response[i].OMTabNo)
+      OMDigital_yes.push(response[i].OMDigital)
 
-    } else if (response[i].Takeoff == "No") {
-      noCount_Takeoff += 1
+
+    } else if (response[i].OM == "No") {
+      noCount_OM += 1
       Item_no.push(response[i].Item)
       Callout_no.push(response[i].Callout)
       Sheet_no.push(response[i].Sheet)
       FAIDNo_no.push(response[i].FAIDNo)
       Room_no.push(response[i].Room)
+      OMBinderNo_no.push(response[i].OMBinderNo)
+      OMTabNo_no.push(response[i].OMTabNo)
+      OMDigital_no.push(response[i].OMDigital)
 
-    } else if (response[i].Takeoff == "OK") {
-      okCount_Takeoff += 1
+
+
+    } else if (response[i].OM == "OK") {
+      okCount_OM += 1
       Item_ok.push(response[i].Item)
       Callout_ok.push(response[i].Callout)
       Sheet_ok.push(response[i].Sheet)
       FAIDNo_ok.push(response[i].FAIDNo)
       Room_ok.push(response[i].Room)
+      OMBinderNo_ok.push(response[i].OMBinderNo)
+      OMTabNo_ok.push(response[i].OMTabNo)
+      OMDigital_ok.push(response[i].OMDigital)
 
-    } else if (response[i].Takeoff == "N A") {
-      naCount_Takeoff += 1
+
+
+
+    } else if (response[i].OM == "N A") {
+      naCount_OM += 1
       Item_na.push(response[i].Item)
       Callout_na.push(response[i].Callout)
       Sheet_na.push(response[i].Sheet)
       FAIDNo_na.push(response[i].FAIDNo)
       Room_na.push(response[i].Room)
+      OMBinderNo_na.push(response[i].OMBinderNo)
+      OMTabNo_na.push(response[i].OMTabNo)
+      OMDigital_na.push(response[i].OMDigital)
+
+
 
     } else {
-      tbdCount_Takeoff += 1
+      tbdCount_OM += 1
       Item_tbd.push(response[i].Item)
       Callout_tbd.push(response[i].Callout)
       Sheet_tbd.push(response[i].Sheet)
       FAIDNo_tbd.push(response[i].FAIDNo)
       Room_tbd.push(response[i].Room)
+      OMBinderNo_tbd.push(response[i].OMBinderNo)
+      OMTabNo_tbd.push(response[i].OMTabNo)
+      OMDigital_tbd.push(response[i].OMDigital)
+
+
+
+
+
     }
-    status_Takeoff.push(response[i].Takeoff)
+    status_OM.push(response[i].OM)
     Callout.push(response[i].Callout)
     Item.push(response[i].Item)
     Sheet.push(response[i].Sheet)
     FAIDNo.push(response[i].FAIDNo)
     Room.push(response[i].Room)
+    OMBinderNo.push(response[i].OMBinderNo)
+    OMTabNo.push(response[i].OMTabNo)
+    OMDigital.push(response[i].OMDigital)
+
+
   };
 
 
   console.log('Project Description: ', Item)
   console.log('Project Description_No: ', Item_no)
   console.log('Project Description_Yes: ', Item_yes)
-  console.log('Takeoff Number, YES: ', Callout_yes )
+  console.log('OM Number, YES: ', Callout_yes )
   console.log('Project Number, NO: ', Sheet_no)
 
   ///////////////////////////////////// 
   // (2-D?) SET PARTIAL INFO FOR CLICK-EVENT
-  var myPlot = document.getElementById('plot_Takeoff_bar_22');
+  var myPlot = document.getElementById('plot_OM_bar_22');
 
   ///////////////////////////////////// 
-  // (2-E) SET BAR CHART DATA AND LAYOUT... AND RUN PLOTLY  (Takeoff)
-  var trace_Takeoff = {
+  // (2-E) SET BAR CHART DATA AND LAYOUT... AND RUN PLOTLY  (OM)
+  var trace_OM = {
     x: ["Yes", "N A", "TBD", "OK", "No"],
-    y: [yesCount_Takeoff, naCount_Takeoff, tbdCount_Takeoff, okCount_Takeoff, noCount_Takeoff],
+    y: [yesCount_OM, naCount_OM, tbdCount_OM, okCount_OM, noCount_OM],
     marker: {
       color: ['green', 'grey', 'royalblue', 'deeppink', 'crimson']
     },
     type: 'bar'
   };
 
-  var data_Takeoff = [trace_Takeoff];
+  var data_OM = [trace_OM];
 
-  var layout_Takeoff = {
-    title: "Takeoff Status",
+  var layout_OM = {
+    title: "OM Status",
     height: 350,
     width: 350,
   };
-  Plotly.newPlot("plot_Takeoff_bar_22", data_Takeoff, layout_Takeoff);
+  Plotly.newPlot("plot_OM_bar_22", data_OM, layout_OM);
 
   myPlot.on('plotly_click', function (data) {
     console.log(data)
@@ -154,7 +212,11 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
       Callout_x = Callout_yes
       Sheet_x = Sheet_yes
       FAIDNo_x = FAIDNo_yes
-      Room_x = Room_yes      
+      Room_x = Room_yes    
+      OMBinderNo_x = OMBinderNo_yes          
+      OMTabNo_x = OMTabNo_yes         
+      OMDigital_x = OMDigital_yes   
+
       console.log(Item_yes)
     }
 
@@ -163,7 +225,12 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
       Callout_x = Callout_na     
       Sheet_x = Sheet_na
       FAIDNo_x = FAIDNo_na   
-      Room_x = Room_na               
+      Room_x = Room_na  
+      OMBinderNo_x = OMBinderNo_na          
+      OMTabNo_x = OMTabNo_na         
+      OMDigital_x = OMDigital_na         
+      
+
       console.log(Item_na)
     }
     
@@ -172,7 +239,14 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
       Callout_x = Callout_tbd     
       Sheet_x = Sheet_tbd
       FAIDNo_x = FAIDNo_tbd  
-      Room_x = Room_tbd               
+      Room_x = Room_tbd  
+      OMBinderNo_x = OMBinderNo_tbd          
+      OMTabNo_x = OMTabNo_tbd         
+      OMDigital_x = OMDigital_tbd          
+      
+
+
+
       console.log(Item_tbd)
     }
 
@@ -181,7 +255,15 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
       Callout_x = Callout_ok   
       Sheet_x = Sheet_ok
       FAIDNo_x = FAIDNo_ok    
-      Room_x = Room_ok         
+      Room_x = Room_ok   
+      OMBinderNo_x = OMBinderNo_ok          
+      OMTabNo_x = OMTabNo_ok         
+      OMDigital_x = OMDigital_ok          
+      
+
+
+
+
       console.log(Item_ok)
     }
 
@@ -190,7 +272,14 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
       Callout_x = Callout_no   
       Sheet_x = Sheet_no   
       FAIDNo_x = FAIDNo_no  
-      Room_x = Room_no              
+      Room_x = Room_no
+      OMBinderNo_x = OMBinderNo_no          
+      OMTabNo_x = OMTabNo_no         
+      OMDigital_x = OMDigital_no          
+      
+
+
+
       console.log(Item_no)
     }
     else {
@@ -198,19 +287,24 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI22.csv", function (erro
     }
 
     var table_alert = '<table>'
-    table_alert += "<th>FA ID_</th>"+"<th>Callout_</th>"+"<th>Sheet_</th>"+"<th>Room_</th>"+"<th>Item</th>"
+    table_alert += "<th>FA ID_</th>"+"<th>Callout_</th>"+"<th>Sheet_</th>"+"<th>Room_</th>"+"<th>Item_</th>"+"<th>Digital_</th>"+"<th>BinderNo_</th>"+"<th>TabNo_</th>"
     for (var i = 0; i < Item_x.length; i++) {
       table_alert += "<tr>";
-      table_alert += "<td>" + FAIDNo_x[i] + "__" +"</td>"; 
-      table_alert += "<td>" + Callout_x[i] + "__" +"</td>";      
-      table_alert += "<td>" + Sheet_x[i] + "__" +"</td>"; 
-      table_alert += "<td>" + Room_x[i] + "__" +"</td>";         
-      table_alert += "<td>" + Item_x[i] +"</td>";  
+      table_alert += "<td>" + FAIDNo_x[i] +"__"+"</td>"; 
+      table_alert += "<td>" + Callout_x[i] +"__"+"</td>";      
+      table_alert += "<td>" + Sheet_x[i] +"__"+"</td>"; 
+      table_alert += "<td>" + Room_x[i] +"__"+"</td>"; 
+      table_alert += "<td>" + Item_x[i] +"__"+"</td>";    
+      table_alert += "<td>" + OMDigital_x[i] +"__"+"</td>";            
+      table_alert += "<td>" + OMBinderNo_x[i] +"__"+"</td>";       
+      table_alert += "<td>" + OMTabNo_x[i] +"__"+"</td>";        
+
+
       table_alert += "</tr>";
     }
     table_alert += "</table>";
 
-    document.getElementById("populating_table_Takeoff_22").innerHTML = table_alert;
+    document.getElementById("populating_table_OM_22").innerHTML = table_alert;
   })
   
 });
