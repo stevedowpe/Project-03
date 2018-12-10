@@ -18,6 +18,193 @@ AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassComplianc
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Water Closet,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Boiler & tank; Water Heater (see Water Heater Schedule),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Water Meter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-3,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-12,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-4,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-13,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,516,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,518,Dig./Analog Fiber Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-10,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,518,Dig./Analog Fiber Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,518,Dig./Analog Fiber Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-3,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-4,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-13,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-12,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,515,Dig./Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-8,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-8,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-8,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-11,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-12,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-13,City,,,,,,,,?,No,,TBD,TBD,1 year,,,,5,24.0,,Sink,No,,,,,,,Yes,,TBD,Tab 8,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,510,Imaging Studio Dress Room,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,MS-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,545,Custodial Closet,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,528,Dig Analog Capture Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-8,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,528,Dig Analog Capture Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ESH-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emerg Shower / Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,508,Corridor,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,508,Corridor,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,530,Film Load,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SRU-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Silver Recovery Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,530,Film Load,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,530,Film Load,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-6,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,530,Film Load,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,6E3,Elev Machine Room,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DR-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Drain Receptor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,6E3,Elev Machine Room,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DR-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Drain Receptor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RCW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Remote Water Chiller,No,,,,,,,Yes,,TBD,Tab 5,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DR-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Drain Receptor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DR-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Drain Receptor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Overflow Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,CP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Pump - Hot Water Circulating,No,,,,,,,Yes,,TBD,Tab 6,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ET-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Expansion Tank,No,,,,,,,Yes,,TBD,Tab 3,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ST-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Hot Water Storage Tank,No,,,,,,,Yes,,TBD,Tab 3,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WH-1,City,,,,,,,,?,No,,TBD,TBD,,,,,Roof,24.0,,Water Heater - Gas Fired,No,,,,,,,Yes,,TBD,Tab 3,,,11220.0,,Career Technology Center,Yes,No,Roof,Roof,,,,P-2.6,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-3,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,L-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Lavatory,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SH-2,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Shower - Accessible,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WC-2,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Water Closet - Accesible,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WC-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Water Closet,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WC-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Water Closet,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WC-2,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Water Closet - Accesible,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,WC-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Water Closet,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,UR-2,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Urinal - Accessible,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-3,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,L-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Lavatory,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SH-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Shower,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SH-2,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Shower - Accessible,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Deck Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,408,Corridor,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-9,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,418,Fac Work Room,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,ORD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Overflorw Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,419,Nursing Multi Classroom,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,RD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Roof Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,419,Nursing Multi Classroom,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-2,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,419,Nursing Multi Classroom,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,PD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Planter Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,452,Occupied Roof,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,411,Prep Critique Multi Lab,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,MS-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,421,Custodial Closet,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,4,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,428,Prep Critique Multi Lab,,,,P-2.4,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,339,Med. Ped. Simulation Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-9,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,334,ADL Transition,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-14,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,337,Med. Simulation Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-14,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,341,Med. Simulation Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-14,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,343,Exam Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-14,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,345,Exam Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-14,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,347,Exam Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-7,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,354,Med. Admin,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-7,City,,,,,,,,?,No,,TBD,TBD,,,,,3,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,353,Skills Lab,,,,P-2.3,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,211,Junior Lab 1,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,211,Junior Lab 1,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,MS-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,216,Freshman Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,216,Freshman Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,216,Freshman Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,213,Junior Lab 2,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,213,Junior Lab 2,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,224,Advanced Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,225,Skincare Lecture,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,209,Basic Skincare Lab,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,210,Skincare Treatment,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,2,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,214,Skincare Treatment,,,,P-2.2,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downsput Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,112,Student Break Room,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,114,Senior Lab 1,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,114,Senior Lab 1,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,114,Senior Lab 1,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DSF-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Filter ((TYPICAL)),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,115,Senior Lab 2,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,115,Senior Lab 2,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,137,Lecture Classroom,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,AD-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Area drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,101,Main Lobby,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,101,Main Lobby,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,112,Student Break Room,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,113,Skin Treatment,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,114,Senior Lab 1,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,114,Senior Lab 1,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,MS-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,105,Custodial Closet,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,MS-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,126,Senior Shampoo Lab,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,117,Officer Workstation,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,AD-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Area Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,117,Officer Workstation,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,AD-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Area Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,120,Police Reception,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,AD-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Area Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,108,Corridor,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-2,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,115,Senior Lab 2,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,116,Skincare Treatment,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DN-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Downspout Nozzle,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,116,Skincare Treatment,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,115,Senior Lab 2,,,,P-2.1,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,15,Pump Room,,,,P-2.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,15,Pump Room,,,,P-2.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,DF-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Drinking Fountain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,11,Fitness Center,,,,P-2.0; P-3.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-9,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,12,Staff Break Room,,,,P-2.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,FHC-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Fire Hose Cabinet,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,2,Hallway,,,,P-2.0,,,,,TBD,TBD,Yes,,,,,11220
+,Voc Tech,22-Plumbing,,22,SOI-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Sand-Oil Interceptor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-1.0; P-2.0P,,,,,TBD,TBD,Yes,,,,,11220
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Floor Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: CHWP (Chilled Water Pipe),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
 ,Voc Tech,22-Plumbing,,22,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: HWP (Hot Water Pipe),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
