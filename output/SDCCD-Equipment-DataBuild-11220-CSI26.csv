@@ -1,66 +1,66 @@
-AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,sheet
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,Yes,,TBD,TBD,,,,,,24.0,,Category: UPS - Uninteruptable Power Supply,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,Yes,,TBD,TBD,,,,,,24.0,,Category: Washing Machine / Dryer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Electric Meter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Elevator Smoke Door,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Control Panel; Network Lighting Controls,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Bloom boxes - power,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: SDGE Box,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Street Light / Pathway Light,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Dedicated Power for BTU Meter (Gas Meter),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,Yes,,TBD,TBD,,,,,,24.0,,Category: Egress / Emergency Lighting,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Elec hand wash / sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Electrical Cabinets and Enclosures,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Fixtures; Luminaire Schedule,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Inverter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Panel Boards,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Switchboards; Wall-Mounted Panelboards,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Transformer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: TVSS - Transient Voltage Surge Suppressor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Solar Panels,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Junction Boxes,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Substation??,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Elec outlets / power outlets,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Wall Switch,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,11220
-,Voc Tech,26-Electrical,,26,MSB,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Main Switchboard,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Fuse Cabinet,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(east),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Transformer,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(northwest),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,14,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Disconnect,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,14,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Disconnect,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,15,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Net Output Meter,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,,24.0,,Category: PV System Inverter,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,,,,,,E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Transformer,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIAA,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIAB,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIBB,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIBA,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,DLP1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PDU A,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Power Distribution Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIE,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,UPS,City,,,,,,,,,,,,TBD,,,,,1,24.0,,UPS,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,GMS Transmitter Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,EMS Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Security Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,HL1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,HP1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,FACP,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Fire Alarm Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PID,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-110A,Skincare Treatment,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,PIC,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-112A,Skincare Treatment,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Security Communicator,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2AA,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2AB,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2BB,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2BA,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,DLP2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,GMS Transmitter Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,EMS Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Security Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2D,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2C,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,HP2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2E,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,P2F,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,SNAC-2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Fire Alarm Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,TBD,Yes,,,,,11220
-,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Security Communicator,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,TBD,Yes,,,,,11220
+AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,Unnamed: 60,sheet
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,Yes,,TBD,TBD,,,,,,24.0,,Category: UPS - Uninteruptable Power Supply,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,Yes,,TBD,TBD,,,,,,24.0,,Category: Washing Machine / Dryer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Electric Meter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Elevator Smoke Door,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Control Panel; Network Lighting Controls,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,TBD,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Bloom boxes - power,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: SDGE Box,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Street Light / Pathway Light,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Dedicated Power for BTU Meter (Gas Meter),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,Yes,,TBD,TBD,,,,,,24.0,,Category: Egress / Emergency Lighting,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,Yes,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Elec hand wash / sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Electrical Cabinets and Enclosures,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,TBD,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Fixtures; Luminaire Schedule,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Lighting Inverter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Panel Boards,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Switchboards; Wall-Mounted Panelboards,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Transformer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: TVSS - Transient Voltage Surge Suppressor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Solar Panels,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,TBD,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Junction Boxes,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Substation??,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Elec outlets / power outlets,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Wall Switch,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance - Indoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance - Outdoor Lighting (see 04-110817 E Sheets),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,?,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,26-Electrical,,26,MSB,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Main Switchboard,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Fuse Cabinet,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(east),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Transformer,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(northwest),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,14,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Disconnect (Solar),,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,14,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Disconnect (Solar),,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,15,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,PV System Net Output Meter (Solar),,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,,24.0,,Category: PV System Inverter (Solar),,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,,,,,,E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,Site,24.0,,Transformer,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,Site,(south),,,,E1.1; E6.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIAA,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIAB,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIBB,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIBA,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,DLP1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PDU A,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Power Distribution Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIE,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,UPS,City,,,,,,,,,,,,TBD,,,,,1,24.0,,UPS,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,GMS Transmitter Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,EMS Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Security Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,HL1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,HP1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107,Electrical Room,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,FACP,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Fire Alarm Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PID,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-110A,Skincare Treatment,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,PIC,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-112A,Skincare Treatment,,,,E2.1; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Security Communicator,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-107A,MDF,,,,E2.1,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2AA,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2AB,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2BB,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2BA,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,DLP2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,GMS Transmitter Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,EMS Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Security Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2D,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2C,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-210,Junior Lab,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,HP2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205,Electrical Room,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2E,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,P2F,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-213A,Lab Equipment,,,,E2.2; E6.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,SNAC-2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Fire Alarm Panel,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,26-Electrical,,26,,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Security Communicator,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,V-205A,IDF,,,,E2.2,,,,,,TBD,Yes,,,,,,11220
