@@ -41,7 +41,7 @@ AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassComplianc
 ,Voc Tech,22-Plumbing,,22,S-11,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,525,Film Loading,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,S-12,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
-,Voc Tech,22-Plumbing,,22,S-13,City,,,,,,,,?,No,,TBD,TBD,1 year,,,,5,24.0,,Sink,No,,,,,,,Yes,,Yes,Tab 8,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
+,Voc Tech,22-Plumbing,,22,S-13,City,,,,,,,,?,No,,Yes,TBD,1 year,2011-07-01,2010-07-01,,5,24.0,,Sink,No,,,,,,,Yes,,Yes,Tab 8,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,EEW-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Emergency Eyewash,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,513,Small Dig. Analog Prep Lab,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,S-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,510,Imaging Studio Dress Room,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,MS-1,City,,,,,,,,?,No,,TBD,TBD,,,,,5,24.0,,Mop Sink,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,545,Custodial Closet,,,,P-2.5,,,,,TBD,TBD,Yes,,,,,,11220
@@ -248,7 +248,7 @@ AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassComplianc
 ,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.0P,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,TP-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Trap Primer,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.0P,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,SOI-1,City,,,,,,,,?,No,,TBD,TBD,,,,,LL,24.0,,Sand Oil Intercepter,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.0P,,,,,TBD,TBD,Yes,,,,,,11220
-,Voc Tech,22-Plumbing,,22,SP-2,City,,,,,,,,?,No,,TBD,TBD,1 yr,,,,LL,24.0,,Pump - Sump,No,,,,,,,TBD,,Yes,Tab 6,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.0P,,,,,TBD,TBD,Yes,,,,,,11220
+,Voc Tech,22-Plumbing,,22,SP-2,City,,,,,,,,?,No,,Yes,TBD,1 year,2011-07-01,2010-07-01,,LL,24.0,,Pump - Sump,No,,,,,,,TBD,,Yes,Tab 6,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.0P,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,AD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Area drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.1P,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,HB-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Hose Bibb,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.1P,,,,,TBD,TBD,Yes,,,,,,11220
 ,Voc Tech,22-Plumbing,,22,TD-1,City,,,,,,,,?,No,,TBD,TBD,,,,,1,24.0,,Trench Drain,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,Parking,Parking Garage,,,,P-2.1P,,,,,TBD,TBD,Yes,,,,,,11220
