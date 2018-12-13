@@ -57,6 +57,30 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
   var Room_na = [];
   var Room_tbd = [];
 
+  var Make = [];
+  var Make_x =[];
+  var Make_yes = [];
+  var Make_no = [];
+  var Make_ok = [];
+  var Make_na = [];
+  var Make_tbd = [];
+
+
+  var Model = [];
+  var Model_x =[];
+  var Model_yes = [];
+  var Model_no = [];
+  var Model_ok = [];
+  var Model_na = [];
+  var Model_tbd = [];
+
+
+
+
+
+
+
+
 
   ///////////////////////////////////////
   // (2-B1) LOOP THROUGH RESPONSES AND PUSH VALUES TO ARRAYS
@@ -68,6 +92,11 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Sheet_yes.push(response[i].Sheet)
       FAIDNo_yes.push(response[i].FAIDNo)
       Room_yes.push(response[i].Room)
+      Make_yes.push(response[i].Make)
+      Model_yes.push(response[i].Model)
+
+
+
 
     } else if (response[i].Takeoff == "No") {
       noCount_Takeoff += 1
@@ -76,6 +105,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Sheet_no.push(response[i].Sheet)
       FAIDNo_no.push(response[i].FAIDNo)
       Room_no.push(response[i].Room)
+      Make_no.push(response[i].Make)
+      Model_no.push(response[i].Model)
+
+
 
     } else if (response[i].Takeoff == "OK") {
       okCount_Takeoff += 1
@@ -84,6 +117,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Sheet_ok.push(response[i].Sheet)
       FAIDNo_ok.push(response[i].FAIDNo)
       Room_ok.push(response[i].Room)
+      Make_ok.push(response[i].Make)
+      Model_ok.push(response[i].Model)
+
+
 
     } else if (response[i].Takeoff == "N A") {
       naCount_Takeoff += 1
@@ -92,6 +129,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Sheet_na.push(response[i].Sheet)
       FAIDNo_na.push(response[i].FAIDNo)
       Room_na.push(response[i].Room)
+      Make_na.push(response[i].Make)
+      Model_na.push(response[i].Model)
+
+
 
     } else {
       tbdCount_Takeoff += 1
@@ -100,6 +141,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Sheet_tbd.push(response[i].Sheet)
       FAIDNo_tbd.push(response[i].FAIDNo)
       Room_tbd.push(response[i].Room)
+      Make_tbd.push(response[i].Make)
+      Model_tbd.push(response[i].Model)
+
+
     }
     status_Takeoff.push(response[i].Takeoff)
     Callout.push(response[i].Callout)
@@ -107,6 +152,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
     Sheet.push(response[i].Sheet)
     FAIDNo.push(response[i].FAIDNo)
     Room.push(response[i].Room)
+    Make.push(response[i].Make)
+    Model.push(response[i].Model)
+
+
   };
 
 
@@ -154,7 +203,10 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Callout_x = Callout_yes
       Sheet_x = Sheet_yes
       FAIDNo_x = FAIDNo_yes
-      Room_x = Room_yes      
+      Room_x = Room_yes 
+      Make_x = Make_yes
+      Model_x = Model_yes          
+
       console.log(Item_yes)
     }
 
@@ -163,7 +215,12 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Callout_x = Callout_na     
       Sheet_x = Sheet_na
       FAIDNo_x = FAIDNo_na   
-      Room_x = Room_na               
+      Room_x = Room_na  
+      Make_x = Make_na
+      Model_x = Model_na        
+      
+
+
       console.log(Item_na)
     }
     
@@ -172,7 +229,11 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Callout_x = Callout_tbd     
       Sheet_x = Sheet_tbd
       FAIDNo_x = FAIDNo_tbd  
-      Room_x = Room_tbd               
+      Room_x = Room_tbd  
+      Make_x = Make_tbd
+      Model_x = Model_tbd            
+      
+
       console.log(Item_tbd)
     }
 
@@ -181,7 +242,11 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Callout_x = Callout_ok   
       Sheet_x = Sheet_ok
       FAIDNo_x = FAIDNo_ok    
-      Room_x = Room_ok         
+      Room_x = Room_ok  
+      Make_x = Make_ok
+      Model_x = Model_ok         
+      
+
       console.log(Item_ok)
     }
 
@@ -190,7 +255,11 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
       Callout_x = Callout_no   
       Sheet_x = Sheet_no   
       FAIDNo_x = FAIDNo_no  
-      Room_x = Room_no              
+      Room_x = Room_no 
+      Make_x = Make_no
+      Model_x = Model_no        
+      
+
       console.log(Item_no)
     }
     else {
@@ -198,14 +267,19 @@ Plotly.d3.csv("output/SDCCD-Equipment-DataBuild-11220-CSI26.csv", function (erro
     }
 
     var table_alert = '<table>'
-    table_alert += "<th>FA ID_</th>"+"<th>Callout_</th>"+"<th>Sheet_</th>"+"<th>Room_</th>"+"<th>Item</th>"
+    table_alert += "<th>FA ID_</th>"+"<th>Callout_</th>"+"<th>Sheet_</th>"+"<th>Room_</th>"+"<th>Item_</th>"+"<th>Make_</th>"+"<th>Model</th>"
     for (var i = 0; i < Item_x.length; i++) {
       table_alert += "<tr>";
       table_alert += "<td>" + FAIDNo_x[i] + "__" +"</td>"; 
       table_alert += "<td>" + Callout_x[i] + "__" +"</td>";      
       table_alert += "<td>" + Sheet_x[i] + "__" +"</td>"; 
       table_alert += "<td>" + Room_x[i] + "__" +"</td>";         
-      table_alert += "<td>" + Item_x[i] +"</td>";  
+      table_alert += "<td>" + Item_x[i] +"</td>"; 
+      table_alert += "<td>" + Make_x[i] +"__"+"</td>"; 
+      table_alert += "<td>" + Model_x[i] +"__"+"</td>";       
+      
+
+
       table_alert += "</tr>";
     }
     table_alert += "</table>";

@@ -2,7 +2,7 @@ AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassComplianc
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Filters,Yes,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: AH - Air Handling Unit - see AHU Schedule,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Cooled Chiller - CH,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Separator Schedule - AS,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Separator Schedule - AS,No,,,,,TEST,TEST,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Chilled Water Pump,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Condensing Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
 ,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Controls Panel,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
