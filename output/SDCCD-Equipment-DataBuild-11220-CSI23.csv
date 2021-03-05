@@ -1,209 +1,209 @@
-AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 51,Unnamed: 52,Unnamed: 54,Unnamed: 57,Unnamed: 60,sheet
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Filters,Yes,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: AH - Air Handling Unit - see AHU Schedule,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Cooled Chiller - CH,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Separator Schedule - AS,No,,,,,TEST,TEST,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Chilled Water Pump,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Condensing Unit,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Controls Panel,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: CWST (ST) - Chilled Water Storage Tank,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,TBD,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Exhaust Fan - EF,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Expansion Tank - ET,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Hot Water Pump,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Sensor,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Split System - CU (Outside),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Split System - FC (Inside),No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Thermostats,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: VAV - Variable Air Volume Terminal Schedule,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Volume Damper,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Operable Gate in Mechanical Screen,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Exhaust Air,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Return Air,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Supply Air,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Fire Smoke Dampers,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Roof Curbs,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Exterior Ductwork,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Exterior Grilles,No,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,TBD,TBD,No,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,11,Fitness Center,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,111,Admin Work,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,110,Admin Office,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,121,Hallway,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,120,Police Reception,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,117,Officer Workstation,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,119,Admin Office,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,130,Fac Office,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,128,Dispensary Supply,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,132,Hallway,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,134,Fac Office,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,FC-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Fan Coil,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,106,MDF Room,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,230,Unisex RR,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,222,Dispensary,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,336,Control Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,337,Med Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338,Control Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,319,Fac Office,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,346,,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,347,Exam Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,309,MultiPurpose Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,414,Fac Office,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,419,Nursing Multi Classroom,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,515,Digital / Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,531,Film Load,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,533,Digital/Analog Repair Office,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,509,Digital/Analog Equip Issue & Storage Room,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-7,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,541,Digital/ Analog Multi Critique Studio,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,536,Equipment Storage,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-9,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-5,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,FC-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Fan Coil,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,FC-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Fan Coil,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,AC-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Conditioning Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,AC-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Conditioning Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,AC-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Conditioning Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,AC-4,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Conditioning Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,CU-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,CU-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,CU-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,B-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Hot Water Boiler,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,B-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Hot Water Boiler,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,P-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Pump-Heating Hot Water,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,P-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Pump-Heating Hot Water,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,AS-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Separator,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,ET-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Expansion Tank,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,TBD,Yes,,,,,,11220
-,Voc Tech,23-HVAC,,23,EF-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Exhaust Fan,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,LL,Lower Level,,,,M2.0P,,,,,,TBD,Yes,,,,,,11220
+AssetIDNo,Building,CSI,CSI Div,CSIDiv,Callout,Campus,ClassBlanket,ClassCompliance,ClassCondition,ClassInterconnect,ClassPriority,ClassWarranty,CostEstimateatStart,Currently Indiv item tracked?,Currently Waldrop ID Tag?,DistrictResponsible,EqWarranty,EqWarrantyDigital,EqWarrantyDuration,EqWarrantyExpires,EqWarrantyStarts,FAIDNo,Floor,Fusion#,GeneralvsFixed,Item,Item a Consumable ?,Latitude,LifeCycleDuration,LifeCycleExpires,Longitide,Make,Model,No,OM,OMBinderNo,OMDigital,OMTabNo,OrigContract,OrigContractor,Project,Project#,ProjectName,Recommend Indiv item Tracking?,Recommend Waldrop ID Tag?,Room,RoomName,SerialNo,ServiceContract,ServiceContractCo,Sheet,SheetColumn,SheetRow,SubGroup01,SubGroup02,SubGroup03,SubGroup04,Submittal,SubmittalDigital,Takeoff,Unnamed: 54,Unnamed: 55,Unnamed: 57,Unnamed: 60,Unnamed: 63,sheet
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Filters,Yes,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: AH - Air Handling Unit - see AHU Schedule,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Cooled Chiller - CH,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Air Separator Schedule - AS,No,,,,,TEST,TEST,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Chilled Water Pump,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Condensing Unit,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Controls Panel,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: CWST (ST) - Chilled Water Storage Tank,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,TBD,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Exhaust Fan - EF,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Expansion Tank - ET,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Hot Water Pump,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Sensor,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Split System - CU (Outside),No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Split System - FC (Inside),No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Thermostats,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: VAV - Variable Air Volume Terminal Schedule,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,OK,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,Yes,No,,TBD,TBD,,,,,,24.0,,Category: Volume Damper,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Operable Gate in Mechanical Screen,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Performance Cert of Compliance Data - HVAC Zones -- See 04-110817 Mech Sheets,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Cert of Compliance Data - Energy Checklist - Opaque Surfaces -- See 04-110817 Mech Sheets,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Exhaust Air,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Return Air,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Diffusers - Supply Air,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,?,No,,TBD,TBD,,,,,,24.0,,Category: Fire Smoke Dampers,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,Yes,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Roof Curbs,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Exterior Ductwork,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,,City,,,,,,,,No,No,,TBD,TBD,,,,,,24.0,,Category: Exterior Grilles,No,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,No,No,,,,,,,,,,,,,TBD,TBD,No,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,16,Office Workstations,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,18,Briefing Training,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,19,Staff Break,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,11,Fitness Center,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,8,Ammo Gun Storage,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,4,Suspect Processing,,,,M2.0,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,115,Senior Lab 2,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,114,Senior Lab 1,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,112,Student Break,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,111,Admin Work,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,110,Admin Office,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,121,Hallway,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,120,Police Reception,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,117,Officer Workstation,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,119,Admin Office,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,127,Student Lockers,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,130,Fac Office,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,128,Dispensary Supply,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,132,Hallway,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,134,Fac Office,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,FC-1,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Fan Coil,,,,,,Daikin,FXMQ48MVJU (Dwg),,TBD,,TBD,,,,11220.0,,Career Technology Center,,,106,MDF Room,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,103,Women's ,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,1,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,137,Lecture Classroom,,,,M2.1,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,211,Junior Lab 1,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,216,Freshman Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,218,Junior Shampoo,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,219,Student Lockers,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,230,Unisex RR,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,222,Dispensary,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,224,Advanced Skincare Lab,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,2,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,225,Skincare Lecture,,,,M2.2,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,325,Shared Fac Office,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,335,Computer Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,336,Control Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,337,Med Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338,Control Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,319,Fac Office,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,330,Hallway,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,331,Admin Reception,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,338-?,Control Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,341,Med Simulation,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,348,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,345,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,346,,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,347,Exam Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,353,Skills Lab,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,309,MultiPurpose Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,3,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,310,MultiPurpose Room,,,,M2.3,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,414,Fac Office,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,419,Nursing Multi Classroom,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Exhaust Fan,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Exhaust Fan,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,?,,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,412,Digital Print Finishing Room,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,411,Prep Critique Multi Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,410,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,409,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,422,Student Lockers,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,427,Digital Imaging Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-6,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,420,Conference Seminar Room,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,4,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,428,Prep Critique Multi Lab,,,,M2.4,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,516,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,520,On-Duty Lab Instruction,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,519,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,515,Digital / Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,513,Small Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,531,Film Load,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,525,Film,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,523,Digital Analog Prep Lab,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,533,Digital/Analog Repair Office,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,510,Imaging Studio Dress Room,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,509,Digital/Analog Equip Issue & Storage Room,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-5,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,538,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-7,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,541,Digital/ Analog Multi Critique Studio,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-4,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,536,Equipment Storage,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-2,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-1,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,VAV-3,City,,,,,,,,,,,,TBD,,,,,5,24.0,,Variable Air Volume Terminal,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,544,Hallway,,,,M2.5,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-9,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,Greencheck,GB-121-3 (Dwg) OR PN 471558 (O&M),,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-5,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,Greencheck,SWB-215-10,,Yes,City-05,TBD,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Exhaust Fan,,,,,,Greencheck,SWB-230-50,,Yes,City-05,TBD,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,FC-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Fan Coil,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,FC-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Fan Coil,,,,,,Carrier,40QNC036,,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,AC-1,City,,,,,,,,,,,,TBD,18 months,,,,R,24.0,,Air Conditioning Unit,,,,,,McQuay,RPS090C,,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,AC-2,City,,,,,,,,,,,,TBD,18 months,,,,R,24.0,,Air Conditioning Unit,,,,,,McQuay,RPS090C,,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,AC-3,City,,,,,,,,,,,,TBD,18 months,,,,R,24.0,,Air Conditioning Unit,,,,,,McQuay,RPS090C,,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,AC-4,City,,,,,,,,,,,,TBD,18 months,,,,R,24.0,,Air Conditioning Unit,,,,,,McQuay,RPS090C,,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,CU-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,CU-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,CU-3,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Condensing Unit,,,,,,Carrier,38HDF036 (Dwg) OR 38QRF018-36 (O&M),,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,B-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Hot Water Boiler,,,,,,Ajax WRFP (Dwgs) OR Raypack (O&M),1250-W (Dwgs) OR HiDelta (O&M),,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,B-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Hot Water Boiler,,,,,,Ajax WRFP (Dwgs) OR Raypack (O&M),1250-W (Dwgs) OR HiDelta (O&M),,Yes,City-05,No,Tab 16,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,P-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Pump-Heating Hot Water,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,P-2,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Pump-Heating Hot Water,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,AS-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Air Separator,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,ET-1,City,,,,,,,,,,,,TBD,,,,,R,24.0,,Expansion Tank,,,,,,,,,TBD,,TBD,,,,11220.0,,Career Technology Center,,,R,Roof,,,,M2.6,,,,,,,,TBD,Yes,,,,,,11220
+,Voc Tech,23-HVAC,,23,EF-1,City,,,,,,,,,,,,TBD,,,,,LL,24.0,,Exhaust Fan,,,,,,Greencheck,VABS-42F17-I-15 (Dwg) ? (O&M),,TBD,,TBD,,,,11220.0,,Career Technology Center,,,LL,Lower Level,,,,M2.0P,,,,,,,,TBD,Yes,,,,,,11220
